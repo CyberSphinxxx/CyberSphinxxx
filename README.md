@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm John Lemar Gonzales, AKA CyberSphinx</h1>
+<h1 align="center">Hi 👋, I'm John Lemar Gonzales (aka CyberSphinx)</h1>
 <h3 align="center">A Lifelong learner in IT</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUxbGo1NWc1MjRqdTk1Ynpsb2U3emFvcmphOW9rdTlqa2Y2NnB5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersphinxxx&label=Profile%20views&color=0e75b6&style=flat" alt="cybersphinxxx" /> </p>
 
@@ -8,6 +8,7 @@
 
 I'm a passionate learner in the field of IT, always eager to explore new technologies and work on exciting projects.
 
+- 🏫 BSIT, University of Science and Technology of Southern Philippines
 - 🌱 Currently learning **C, Linux, Ethical Hacking, HTML, CSS, Game Development**
 - 💬 Ask me about **C, Premier Pro, Photoshop**
 - 📫 How to reach me: [johnlemargonzales@gmail.com](mailto:johnlemargonzales@gmail.com)
@@ -27,7 +28,7 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 </p>
 
 ## Learning Journey
-
+<img align="left" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZhODFhczE4MWJyenR6andwYmliMXhjbnd6bXVsMjExaXpkNzUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pSfIB8mPvnWofsOdKX/giphy.gif">
 Showcasing my progress and projects related to what I'm currently learning:
 
 - [Project 1: Online 3D Touring for City Museum of CDO](https://www.roblox.com/games/13258489628/Online-3D-Touring-for-City-Museum-of-CDO)
