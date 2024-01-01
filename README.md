@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Lemar Gonzales (aka CyberSphinx)</h1>
 <h3 align="center">A Lifelong learner in IT</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUxbGo1NWc1MjRqdTk1Ynpsb2U3emFvcmphOW9rdTlqa2Y2NnB5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUxbGo1NWc1MjRqdTk1Ynpsb2U3emFvcmphOW9rdTlqa2Y2NnB5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersphinxxx&label=Profile%20views&color=0e75b6&style=flat" alt="cybersphinxxx" /> </p>
 
