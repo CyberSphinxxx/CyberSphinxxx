@@ -1,6 +1,3 @@
-<div style="text-align:center;">
-    <img align="center" alt="Coding" width="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEzNnFzZXRxMWN2dDdrbnF1ZWUwbTgxcnZuYm9najR1cnZwcXZnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
-</div>
 
 <h1 align="center">Hi 👋, I'm John Lemar Gonzales (aka CyberSphinx)</h1>
 <h3 align="center">A Lifelong learner in IT</h3>
