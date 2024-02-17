@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" width="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEzNnFzZXRxMWN2dDdrbnF1ZWUwbTgxcnZuYm9najR1cnZwcXZnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
+
 <h1 align="center">Hi 👋, I'm John Lemar Gonzales (aka CyberSphinx)</h1>
 <h3 align="center">A Lifelong learner in IT</h3>
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUxbGo1NWc1MjRqdTk1Ynpsb2U3emFvcmphOW9rdTlqa2Y2NnB5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif">
