@@ -1,4 +1,6 @@
-<img align="center" alt="Coding" width="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEzNnFzZXRxMWN2dDdrbnF1ZWUwbTgxcnZuYm9najR1cnZwcXZnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
+<div style="text-align:center;">
+    <img align="center" alt="Coding" width="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEzNnFzZXRxMWN2dDdrbnF1ZWUwbTgxcnZuYm9najR1cnZwcXZnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
+</div>
 
 <h1 align="center">Hi 👋, I'm John Lemar Gonzales (aka CyberSphinx)</h1>
 <h3 align="center">A Lifelong learner in IT</h3>
@@ -53,6 +55,6 @@ Showcasing my progress and projects related to what I'm currently learning:
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybersphinxxx&show_icons=true&locale=en&layout=compact" alt="cybersphinxxx" /></p>
+<p><img align="center" width="1000"  src="https://github-readme-stats.vercel.app/api/top-langs?username=cybersphinxxx&show_icons=true&locale=en&layout=compact" alt="cybersphinxxx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersphinxxx&" alt="cybersphinxxx" /></p>
+<p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersphinxxx&" alt="cybersphinxxx" /></p>
