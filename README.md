@@ -52,7 +52,7 @@ Showcasing my progress and projects related to what I'm currently learning:
 </p>
 
 
-<p><img align="center" width="500"  src="https://github-readme-stats.vercel.app/api/top-langs?username=cybersphinxxx&show_icons=true&locale=en&layout=compact" alt="cybersphinxxx" /></p>
+<p><img align="center" width="600"  src="https://github-readme-stats.vercel.app/api/top-langs?username=cybersphinxxx&show_icons=true&locale=en&layout=compact" alt="cybersphinxxx" /></p>
 
-<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersphinxxx&" alt="cybersphinxxx" /></p>
+<p><img align="center" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersphinxxx&" alt="cybersphinxxx" /></p>
 
