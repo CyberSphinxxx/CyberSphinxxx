@@ -10,7 +10,7 @@
 I'm a passionate learner in the field of IT, always eager to explore new technologies and work on exciting projects.
 
 - 🏫 BSIT, University of Science and Technology of Southern Philippines
-- 🌱 Currently learning **C, Python, Jave, Linux, Ethical Hacking, HTML, CSS, Javescript, Game Development, Unreal Engine, Unity, Godot**
+- 🌱 Currently learning **C, Python, Jave, Linux, Ethical Hacking, HTML, CSS, Javescript, Game Development, Unreal Engine, Unity, Godot, Flutter**
 - 💬 Ask me about **C, Python, Premier Pro, Photoshop**
 - 📫 How to reach me: [johnlemargonzales@gmail.com](mailto:johnlemargonzales@gmail.com)
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RBeeb5KcJulMYNcbhpugAbrUB4QY13vn/view?usp=sharing](https://drive.google.com/file/d/1RBeeb5KcJulMYNcbhpugAbrUB4QY13vn/view?usp=sharing)
