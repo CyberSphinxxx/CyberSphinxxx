@@ -9,7 +9,7 @@
 
 I'm a passionate learner in the field of IT, always eager to explore new technologies and work on exciting projects.
 
-- 🏫 BSIT, University of Science and Technology of Southern Philippines
+- 🏫 BSIT, University of Science and Technology of Southern Philippines, CDO City
 - 🌱 Currently learning **C, Python, Jave, Linux, Ethical Hacking, HTML, CSS, Javescript, Game Development, Unreal Engine, Unity, Godot, Flutter**
 - 💬 Ask me about **C, Python, Premier Pro, Photoshop**
 - 📫 How to reach me: [johnlemargonzales@gmail.com](mailto:johnlemargonzales@gmail.com)
