@@ -56,3 +56,6 @@ Showcasing my progress and projects related to what I'm currently learning:
 
 <p><img align="center" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersphinxxx&" alt="cybersphinxxx" /></p>
 
+<div align="left">
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=CyberSphinxxx&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+</div>
