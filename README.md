@@ -1,4 +1,5 @@
 
+
 <h1 align="center">𝐇𝐢 👋, 𝐈'𝐦 𝐉𝐨𝐡𝐧 𝐋𝐞𝐦𝐚𝐫 𝐆𝐨𝐧𝐳𝐚𝐥𝐞𝐬 (𝐚𝐤𝐚 𝐂𝐲𝐛𝐞𝐫𝐒𝐩𝐡𝐢𝐧𝐱)</h1>
 <h3 align="center">𝐀 𝐋𝐢𝐟𝐞𝐥𝐨𝐧𝐠 𝐥𝐞𝐚𝐫𝐧𝐞𝐫 𝐢𝐧 𝐈𝐓</h3>
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUxbGo1NWc1MjRqdTk1Ynpsb2U3emFvcmphOW9rdTlqa2Y2NnB5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif">
@@ -59,6 +60,9 @@ Showcasing my progress and projects related to what I'm currently learning:
 <h1 align="center">PERSONAL HUB</h1>
 <h1 align="center">⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻</h1>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5DF70F&random=false&width=510&lines=%F0%9D%90%87%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%8B%F0%9D%90%8E+%F0%9D%90%95%F0%9D%90%88%F0%9D%90%92%F0%9D%90%88%F0%9D%90%93%F0%9D%90%8E%F0%9D%90%91!;%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%9E+%F0%9D%90%AD%F0%9D%90%A8+%F0%9D%90%A6%F0%9D%90%B2+%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%AE%F0%9D%90%9B+%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9E;%F0%9D%90%85%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%A5+%F0%9D%90%9F%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9E+%F0%9D%90%AD%F0%9D%90%A8+%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A4+%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%9D" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
     <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybersphinxxx&show_icons=true&locale=en&layout=compact" alt="cybersphinxxx"/>
