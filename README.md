@@ -50,11 +50,8 @@ Showcasing my progress and projects related to what I'm currently learning:
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 
-<details> 
- <summary>👾 <b>My Personal Hub</b>: </summary>
-<br>
-  
 </p>
+
 
 <h1 align="center">⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻</h1>
 <h1 align="center">PERSONAL HUB</h1>
@@ -84,5 +81,3 @@ Showcasing my progress and projects related to what I'm currently learning:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=216buc3cy35iuxknnl37fb2lq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=04ff00&interchange=false&bar_color=ff0000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
-
-</details>
