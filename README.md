@@ -72,13 +72,5 @@ Showcasing my progress and projects related to what I'm currently learning:
 </div>
 
 <div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=CyberSphinxxx&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
-</div>
-
-<div align="center">
-<a href="https://stats.dooboo.io/en/stats/CyberSphinxxx"><img src="https://stats.dooboo.io/api/github-stats?login=CyberSphinxxx" width="537" /></a>
-</div>
-
-<div align="center">
 
 </div>
