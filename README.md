@@ -37,7 +37,7 @@ Showcasing my progress and projects related to what I'm currently learning:
 - [Project 2: Customer Billing System Using C Programming](https://github.com/CyberSphinxxx/CustomerBillingSytemInC)
 - [Project 3: Restaurant Billing System Using C Programming](https://github.com/CyberSphinxxx/RestaurantBillingCProgramming)
 - [Editing Projects: You can find it on my Linkedin profile](https://linkedin.com/in/john-lemar-gonzales-28011b28b/)
-
+- [Food Blog Website: Group 5 Grade 12 TVL, ICT-1 Food Blog](https://jlgonz.edublogs.org/2022/11/18/group-5-grade-12-tvl-ict-1-food-blog-final/)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
