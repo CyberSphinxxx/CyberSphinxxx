@@ -8,13 +8,15 @@
 
 
 <h3 align="left">Introduction</h3>
-I'm a passionate learner in the field of IT, always eager to explore new technologies and work on exciting projects.
+<p>I'm a passionate learner in the field of IT, always eager to explore new technologies and work on exciting projects.</p>
 
-- 🏫 BSIT, University of Science and Technology of Southern Philippines, CDO City
-- 🌱 Currently learning **C, Python, Jave, Linux, Ethical Hacking, HTML, CSS, Javescript, Game Development, Unreal Engine, Unity, Godot, Flutter**
-- 💬 Ask me about **C, Python, Premier Pro, Photoshop,**
-- 📫 How to reach me: [johnlemargonzales@gmail.com](mailto:johnlemargonzales@gmail.com)
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RBeeb5KcJulMYNcbhpugAbrUB4QY13vn/view?usp=sharing](https://drive.google.com/file/d/1RBeeb5KcJulMYNcbhpugAbrUB4QY13vn/view?usp=sharing)
+<ul>
+  <li>🏫 BSIT, University of Science and Technology of Southern Philippines, CDO City</li>
+  <li>🌱 Currently learning <strong>C, Python, Java, Linux, Ethical Hacking, HTML, CSS, JavaScript, Game Development, Unreal Engine, Unity, Godot, Flutter</strong></li>
+  <li>💬 Ask me about <strong>C, Python, Premiere Pro, Photoshop</strong></li>
+  <li>📫 How to reach me: <a href="mailto:johnlemargonzales@gmail.com">johnlemargonzales@gmail.com</a></li>
+  <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1RBeeb5KcJulMYNcbhpugAbrUB4QY13vn/view?usp=sharing" target="_blank">Resume</a></li>
+</ul>
 
 ## Experiences
 
