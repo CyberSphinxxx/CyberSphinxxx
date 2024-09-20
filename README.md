@@ -26,8 +26,11 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 <p align="left">
   <a href="https://linkedin.com/in/john-lemar-gonzales-28011b28b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  
   <a href="https://twitter.com/Cyber_Sphinx_x" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  
   <a href="https://www.facebook.com/johnlemgonzales" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Twitter" height="30" width="40" /></a>
+  
   <a href="https://discord.gg/74jFFFgjNT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
