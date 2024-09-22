@@ -24,15 +24,24 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## Connect with me:
 
-<p align="left">
-  <a href="https://linkedin.com/in/john-lemar-gonzales-28011b28b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<p align="left" style="display: flex; gap: 10px;">
+  <a href="https://linkedin.com/in/john-lemar-gonzales-28011b28b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
   
-  <a href="https://twitter.com/Cyber_Sphinx_x" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://twitter.com/Cyber_Sphinx_x" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
   
-  <a href="https://www.facebook.com/johnlemgonzales" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/johnlemgonzales" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
   
-  <a href="https://discord.gg/74jFFFgjNT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://discord.gg/74jFFFgjNT" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
+
 
 ## Learning Journey
 <img align="left" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZhODFhczE4MWJyenR6andwYmliMXhjbnd6bXVsMjExaXpkNzUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pSfIB8mPvnWofsOdKX/giphy.gif">
