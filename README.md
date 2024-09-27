@@ -50,8 +50,10 @@ Showcasing my progress and projects related to what I'm currently learning:
 - [Project 1: Online 3D Touring for City Museum of CDO](https://www.roblox.com/games/13258489628/Online-3D-Touring-for-City-Museum-of-CDO)
 - [Project 2: Customer Billing System Using C Programming](https://github.com/CyberSphinxxx/CustomerBillingSytemInC)
 - [Project 3: Restaurant Billing System Using C Programming](https://github.com/CyberSphinxxx/RestaurantBillingCProgramming)
-- [Editing Projects: You can find it on my Linkedin profile](https://linkedin.com/in/john-lemar-gonzales-28011b28b/)
 - [Food Blog Website: Group 5 Grade 12 TVL, ICT-1 Food Blog](https://jlgonz.edublogs.org/2022/11/18/group-5-grade-12-tvl-ict-1-food-blog-final/)
+- [Interactive Code Editor](https://cybersphinxxx.github.io/Interactive_Code_Editor/)
+- [TimeNow](https://github.com/CyberSphinxxx/TimeNow)
+- [WeatherNow](https://github.com/CyberSphinxxx/TimeNow)
 
 <br>
 
