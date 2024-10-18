@@ -15,7 +15,7 @@
   <li>🌱 Currently learning <strong>C, Python, Java, Linux, Ethical Hacking, HTML, CSS, JavaScript, Game Development, Unreal Engine, Unity, Godot, Flutter</strong></li>
   <li>💬 Ask me about <strong>C, Python, Premiere Pro, Photoshop</strong></li>
   <li>📫 How to reach me: <a href="mailto:johnlemargonzales@gmail.com">johnlemargonzales@gmail.com</a></li>
-  <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1RBeeb5KcJulMYNcbhpugAbrUB4QY13vn/view?usp=sharing" target="_blank">Resume</a></li>
+  <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/11hbulKKPnj12hJPeKxfnRlMxNJbCt9AM/view?usp=drive_link" target="_blank">Resume</a></li>
 </ul>
 
 ## Experiences
