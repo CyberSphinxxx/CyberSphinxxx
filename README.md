@@ -1,11 +1,8 @@
-
-
 <h1 align="center">𝐈'𝐦 𝐉𝐨𝐡𝐧 𝐋𝐞𝐦𝐚𝐫 𝐆𝐨𝐧𝐳𝐚𝐥𝐞𝐬 (𝐚𝐤𝐚 𝐂𝐲𝐛𝐞𝐫𝐒𝐩𝐡𝐢𝐧𝐱)</h1>
 <h3 align="center">𝐀 𝐋𝐢𝐟𝐞𝐥𝐨𝐧𝐠 𝐥𝐞𝐚𝐫𝐧𝐞𝐫 𝐢𝐧 𝐈𝐓</h3>
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUxbGo1NWc1MjRqdTk1Ynpsb2U3emFvcmphOW9rdTlqa2Y2NnB5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersphinxxx&label=Profile%20views&color=0e75b6&style=flat" alt="cybersphinxxx" /> </p>
-
 
 <h3 align="left">Introduction</h3>
 <p>I'm a passionate learner in the field of IT, always eager to explore new technologies and work on exciting projects.</p>
@@ -29,17 +26,14 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
-  
   <a href="https://twitter.com/Cyber_Sphinx_x" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 
-  
   <a href="https://www.facebook.com/johnlemgonzales" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 
-  
   <a href="https://discord.gg/74jFFFgjNT" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
@@ -80,7 +74,6 @@ Showcasing my progress and projects related to what I'm currently learning:
 <div align="center">
     <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybersphinxxx&show_icons=true&locale=en&layout=compact" alt="cybersphinxxx"/>
 </div>
-
 
 <div align="center">
     <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersphinxxx&" alt="cybersphinxxx"/>
