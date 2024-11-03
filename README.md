@@ -10,6 +10,7 @@
 <ul>
   <li>🏫 BSIT, University of Science and Technology of Southern Philippines, CDO</li>
   <li>🌱 Currently learning <strong>C, Python, Java, Linux, Ethical Hacking, HTML, CSS, JavaScript, Game Development, Unreal Engine, Unity, Godot, Flutter</strong></li>
+  <li>⚒️ Currently Working on: <a href="https://github.com/CyberSphinxxx/PasswordSentinel"><strong>PasswordSentinel</strong></a></li> 
   <li>💬 Ask me about <strong>C, Python, Premiere Pro, Photoshop</strong></li>
   <li>📫 How to reach me: <a href="mailto:johnlemargonzales@gmail.com">johnlemargonzales@gmail.com</a></li>
   <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/11hbulKKPnj12hJPeKxfnRlMxNJbCt9AM/view?usp=drive_link" target="_blank">Resume</a></li>
