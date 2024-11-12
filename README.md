@@ -71,7 +71,6 @@ Showcasing my progress and projects related to what I'm currently learning:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5DF70F&random=false&width=510&lines=%F0%9D%90%87%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%8B%F0%9D%90%8E+%F0%9D%90%95%F0%9D%90%88%F0%9D%90%92%F0%9D%90%88%F0%9D%90%93%F0%9D%90%8E%F0%9D%90%91!;%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%9E+%F0%9D%90%AD%F0%9D%90%A8+%F0%9D%90%A6%F0%9D%90%B2+%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%AE%F0%9D%90%9B+%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9E;%F0%9D%90%85%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%A5+%F0%9D%90%9F%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9E+%F0%9D%90%AD%F0%9D%90%A8+%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A4+%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%9D" alt="Typing SVG" /></a>
 </div>
 
-
 <div align="center">
     <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybersphinxxx&show_icons=true&locale=en&layout=compact" alt="cybersphinxxx"/>
 </div>
