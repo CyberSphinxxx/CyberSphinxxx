@@ -63,7 +63,6 @@ Showcasing my progress and projects related to what I'm currently learning:
 
 <h1 align="center">⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻</h1>
 <h1 align="center">PERSONAL HUB</h1>
-<h1 align="center">⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻</h1>
 
 <h4 align="center">If this part doesn't load, Refresh the page</h1>
 
