@@ -72,7 +72,7 @@ Showcasing my progress and projects related to what I'm currently learning:
 </div>
 
 <div align="center">
-    <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybersphinxxx&show_icons=true&locale=en&layout=compact" alt="cybersphinxxx"/>
+    <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybersphinxxx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="cybersphinxxx"/>
 </div>
 
 <div align="center">
