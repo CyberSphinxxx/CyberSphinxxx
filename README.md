@@ -41,7 +41,7 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 </p>
 
 ## Learning Journey
-<img align="left" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZhODFhczE4MWJyenR6andwYmliMXhjbnd6bXVsMjExaXpkNzUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pSfIB8mPvnWofsOdKX/giphy.gif">
+<img align="left" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZhODFhczE4MWJyenR6andwYmliMXhjbnd6bXVsMjExaXpkNzUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pSfIB8mPvnWofsOdKX/giphy.gif">
 Showcasing my progress and projects related to what I'm currently learning:
 
 - [Project 1: Online 3D Touring for City Museum of CDO](https://www.roblox.com/games/13258489628/Online-3D-Touring-for-City-Museum-of-CDO)
