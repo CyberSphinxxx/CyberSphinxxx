@@ -57,7 +57,7 @@ Showcasing my progress and projects related to what I'm currently learning:
 <p align="center">
   <h1>Languages & Tools</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql,lua,cpp,git,figma,github,idea,kali,notion,ps,pr,pycharm,unreal,unity,godot,vscode,wordpress,blender,eclipse,linux,  &perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql,lua,cpp,git,figma,github,idea,kali,notion,ps,pr,pycharm,unreal,unity,godot,vscode,wordpress,blender,eclipse,linux,typescript,  &perline=7" />
   </a>
 </p>
 
