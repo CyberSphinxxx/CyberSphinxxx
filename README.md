@@ -77,3 +77,8 @@ Showcasing my progress and projects related to what I'm currently learning:
 <div align="center">
     <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersphinxxx&" alt="cybersphinxxx"/>
 </div>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/johnlemargonzales"> 
+  <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="johnlemargonzales" /></a><a href="https://ko-fi.com/johnlemargonzales"> 
+
