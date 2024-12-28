@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersphinxxx&label=Profile%20views&color=0e75b6&style=flat" alt="cybersphinxxx" /> </p>
 
 <h3 align="left">Introduction</h3>
-<p>I'm a passionate learner in the field of IT, always eager to explore new technologies and work on exciting projects.</p>
+<p>Web Developer, Programmer, Philanthropist, and Student Leader.</p>
 
 <ul>
   <li>🏫 BSIT, University of Science and Technology of Southern Philippines, CDO</li>
