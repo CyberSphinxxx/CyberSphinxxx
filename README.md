@@ -40,8 +40,6 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
   </a>
 </p>
 
-<br>
-
 <p align="center">
   <h1>Languages & Tools</h1>
   <a href="https://skillicons.dev">
