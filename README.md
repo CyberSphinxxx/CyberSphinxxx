@@ -40,18 +40,6 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
   </a>
 </p>
 
-## Learning Journey
-<img align="left" alt="Coding" width="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZhODFhczE4MWJyenR6andwYmliMXhjbnd6bXVsMjExaXpkNzUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pSfIB8mPvnWofsOdKX/giphy.gif">
-Showcasing my progress and projects related to what I'm currently learning:
-
-- [Project 1: Online 3D Touring for City Museum of CDO](https://www.roblox.com/games/13258489628/Online-3D-Touring-for-City-Museum-of-CDO)
-- [Project 2: Customer Billing System Using C Programming](https://github.com/CyberSphinxxx/CustomerBillingSytemInC)
-- [Project 3: Restaurant Billing System Using C Programming](https://github.com/CyberSphinxxx/RestaurantBillingCProgramming)
-- [Food Blog Website: Group 5 Grade 12 TVL, ICT-1 Food Blog](https://jlgonz.edublogs.org/2022/11/18/group-5-grade-12-tvl-ict-1-food-blog-final/)
-- [Interactive Code Editor](https://cybersphinxxx.github.io/Interactive_Code_Editor/)
-- [TimeNow](https://github.com/CyberSphinxxx/TimeNow)
-- [WeatherNow](https://github.com/CyberSphinxxx/TimeNow)
-
 <br>
 
 <p align="center">
