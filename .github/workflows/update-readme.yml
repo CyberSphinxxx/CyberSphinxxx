@@ -1,18 +1,18 @@
-name: Update README
+name: GitHub Activity
+
 on:
-  schedule:
-    - cron: "*/1 * * * *"
   workflow_dispatch:
+  schedule:
+    - cron: '*/1 * * * *'
+
 jobs:
   build:
-    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v3
       - name: Update GitHub Activity Readme
-      - uses: CyberSphinxxx/github-activity-readme@master
+        uses: CyberSphinxxx/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
