@@ -72,4 +72,7 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v1.1.0 - Advanced Text Transformations Update](https://github.com/CyberSphinxxx/CaseFlow/releases/tag/v1.1.0) in [CyberSphinxxx/CaseFlow](https://github.com/CyberSphinxxx/CaseFlow)
+2. 🚀 Published release [v1.0.0 - CaseFlow Initial Release](https://github.com/CyberSphinxxx/CaseFlow/releases/tag/v1.0.0) in [CyberSphinxxx/CaseFlow](https://github.com/CyberSphinxxx/CaseFlow)
+3. 💪 Opened PR [#16](https://github.com/gdgoc-ustp/USTP-Website/pull/16) in [gdgoc-ustp/USTP-Website](https://github.com/gdgoc-ustp/USTP-Website)
 <!--END_SECTION:activity-->
