@@ -68,33 +68,8 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 <p><a href="https://ko-fi.com/johnlemargonzales"> 
   <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="johnlemargonzales" /></a><a href="https://ko-fi.com/johnlemargonzales"> 
 
-<br><br><br>
+<br><br>
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-<a href="https://github.com/CyberSphinxxx/github-stats">
-  <picture>
-    <source
-      srcset="https://raw.githubusercontent.com/CyberSphinxxx/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
-      media="(prefers-color-scheme: dark)" 
-    />
-    <source
-      srcset="https://raw.githubusercontent.com/CyberSphinxxx/github-stats/master/generated/overview.svg#gh-light-mode-only" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-    />
-    <img src="https://raw.githubusercontent.com/CyberSphinxxx/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://raw.githubusercontent.com/CyberSphinxxx/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
-      media="(prefers-color-scheme: dark)" 
-    />
-    <source
-      srcset="https://raw.githubusercontent.com/CyberSphinxxx/github-stats/master/generated/languages.svg#gh-light-mode-only" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-    />
-    <img src="https://raw.githubusercontent.com/CyberSphinxxx/github-stats/master/generated/languages.svg#gh-light-mode-only" />
-  </picture>
-</a>
