@@ -70,7 +70,6 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 <br><br><br>
 
-### :zap: Recent Activity
+## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
