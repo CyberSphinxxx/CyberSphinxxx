@@ -68,3 +68,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 <p><a href="https://ko-fi.com/johnlemargonzales"> 
   <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="johnlemargonzales" /></a><a href="https://ko-fi.com/johnlemargonzales"> 
 
+<br><br><br>
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
