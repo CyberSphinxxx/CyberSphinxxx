@@ -1,18 +1,18 @@
-name: GitHub Activity
-
+name: Github Activity
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '*/1 * * * *'
-
+    - cron: "*/1 * * * *"
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v3
-      - name: Update GitHub Activity Readme
       - uses: CyberSphinxxx/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 6
