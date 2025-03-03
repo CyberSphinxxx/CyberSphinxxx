@@ -83,8 +83,7 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ---
 
-## 🚀 Projects
-<h2>My Creations</h2>
+# 🚀 Projects
 <p>Check out some of my favorite projects below!</p>
 
 <table style="width: 660px; border-collapse: separate; border-spacing: 20px 15px;">
