@@ -130,7 +130,7 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
   <tr>
     <td style="border: 2px solid #333; border-radius: 10px; padding: 20px; width: 300px; background-color: #f9f9f9; vertical-align: top;">
       <h3><a href="https://github.com/CyberSphinxxx/PasswordSentinel-JavaSwing">PasswordSentinel - Java Version</a></h3>
-      <p>A secure password manager built with Java Swing.<br><img src="https://skillicons.dev/icons?i=java" alt="Tech Stack: Java" style="height: 20px; vertical-align: middle;" /><br>No Live Demo</p>
+      <p>A secure password manager built with Java Swing.<br><img src="https://skillicons.dev/icons?i=java" alt="Tech Stack: Java, SQL" style="height: 20px; vertical-align: middle;" /><br>No Live Demo</p>
     </td>
     <td style="border: 2px solid #333; border-radius: 10px; padding: 20px; width: 300px; background-color: #f9f9f9; vertical-align: top;">
       <h3><a href="https://github.com/CyberSphinxxx/ShopScout-CDO">ShopScout-CDO</a></h3>
@@ -154,7 +154,7 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
     </td>
     <td style="border: 2px solid #333; border-radius: 10px; padding: 20px; width: 300px; background-color: #f9f9f9; vertical-align: top;">
       <h3><a href="https://github.com/CyberSphinxxx/Cute-Date-Planner">Cute-Date-Planner</a></h3>
-      <p>This application helps you plan your perfect dates, add, filter, and manage date ideas effortlessly.<br><img src="https://skillicons.dev/icons?i=html,css,js" alt="Tech Stack: HTML, CSS, JavaScript" style="height: 20px; vertical-align: middle;" /><br><a href="https://cutedateplanner.vercel.app">Live Demo</a></p>
+      <p>This application helps you plan your perfect dates, add, filter, and manage date ideas effortlessly.<br><img src="https://skillicons.dev/icons?i=html,css,js" alt="Tech Stack: HTML, CSS, JavaScript, Typescript, Tailwind" style="height: 20px; vertical-align: middle;" /><br><a href="https://cutedateplanner.vercel.app">Live Demo</a></p>
     </td>
   </tr>
   <tr>
