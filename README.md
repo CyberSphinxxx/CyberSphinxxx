@@ -76,8 +76,8 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 - AsciiWizard Initial Release](https://github.com/CyberSphinxxx/AsciiWizard/releases/tag/v1.0.0) in [CyberSphinxxx/AsciiWizard](https://github.com/CyberSphinxxx/AsciiWizard)
-2. 🚀 Published release [v1.0.0 - Initial Release](https://github.com/CyberSphinxxx/GuessTheNumber/releases/tag/v1.0.0) in [CyberSphinxxx/GuessTheNumber](https://github.com/CyberSphinxxx/GuessTheNumber)
+1. 💪 Opened PR [#1](https://github.com/Cejj28/findly/pull/1) in [Cejj28/findly](https://github.com/Cejj28/findly)
+2. 🚀 Published release [v1.0.0 - AsciiWizard Initial Release](https://github.com/CyberSphinxxx/AsciiWizard/releases/tag/v1.0.0) in [CyberSphinxxx/AsciiWizard](https://github.com/CyberSphinxxx/AsciiWizard)
 3. 💪 Opened PR [#16](https://github.com/gdgoc-ustp/USTP-Website/pull/16) in [gdgoc-ustp/USTP-Website](https://github.com/gdgoc-ustp/USTP-Website)
 <!--END_SECTION:activity-->
 
