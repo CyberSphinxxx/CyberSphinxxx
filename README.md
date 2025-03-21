@@ -2,10 +2,7 @@
 <h3 align="center">𝐀 𝐋𝐢𝐟𝐞𝐥𝐨𝐧𝐠 𝐥𝐞𝐚𝐫𝐧𝐞𝐫 𝐢𝐧 𝐈𝐓</h3>
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUxbGo1NWc1MjRqdTk1Ynpsb2U3emFvcmphOW9rdTlqa2Y2NnB5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersphinxxx&label=Profile%20views&color=0e75b6&style=flat" alt="cybersphinxxx" /> </p>
-
-
 
 <h3 align="left">Introduction</h3>
 <p>Web Developer, Programmer, Philanthropist, and Student Leader.</p>
@@ -214,4 +211,3 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 </p>
 
 ---
-
