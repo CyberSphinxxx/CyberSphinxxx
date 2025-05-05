@@ -73,8 +73,8 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/1) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
-2. 🚀 Published release [v1.0.0 - AsciiWizard Initial Release](https://github.com/CyberSphinxxx/AsciiWizard/releases/tag/v1.0.0) in [CyberSphinxxx/AsciiWizard](https://github.com/CyberSphinxxx/AsciiWizard)
+1. ❗ Opened issue [#2](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/2) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
+2. ❗ Opened issue [#1](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/1) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
 3. 💪 Opened PR [#16](https://github.com/gdgoc-ustp/USTP-Website/pull/16) in [gdgoc-ustp/USTP-Website](https://github.com/gdgoc-ustp/USTP-Website)
 <!--END_SECTION:activity-->
 
