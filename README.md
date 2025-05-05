@@ -73,9 +73,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/2) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
-2. ❗ Opened issue [#1](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/1) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
-3. 💪 Opened PR [#16](https://github.com/gdgoc-ustp/USTP-Website/pull/16) in [gdgoc-ustp/USTP-Website](https://github.com/gdgoc-ustp/USTP-Website)
+1. 🗣 Commented on [#1](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/1#issuecomment-2850537345) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
+2. ❗ Opened issue [#2](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/2) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
+3. ❗ Opened issue [#1](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/1) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
 <!--END_SECTION:activity-->
 
 ---
