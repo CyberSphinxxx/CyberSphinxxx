@@ -73,9 +73,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 - OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/releases/tag/v1.0.0) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
-2. 🎉 Merged PR [#4](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/pull/4) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
-3. 🗣 Commented on [#1](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/1#issuecomment-2850537345) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
+1. 🎉 Merged PR [#1](https://github.com/G5-SIA-BSIT2R5/OtakuVerseBackend/pull/1) in [G5-SIA-BSIT2R5/OtakuVerseBackend](https://github.com/G5-SIA-BSIT2R5/OtakuVerseBackend)
+2. 🚀 Published release [v1.0.0 - OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/releases/tag/v1.0.0) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
+3. 🎉 Merged PR [#4](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/pull/4) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
 <!--END_SECTION:activity-->
 
 ---
