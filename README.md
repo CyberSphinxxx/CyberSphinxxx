@@ -40,10 +40,11 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
   </a>
 </p>
 
+<h1 align="center">Languages & Tools</h1>
+
 <p align="center">
-  <h1>Languages & Tools</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql,lua,cpp,git,figma,github,idea,kali,notion,ps,pr,pycharm,unreal,unity,godot,vscode,wordpress,blender,eclipse,linux,typescript,discord,gmail,php,  &perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql,lua,cpp,git,figma,github,idea,kali,notion,ps,pr,pycharm,unreal,unity,godot,vscode,wordpress,blender,eclipse,linux,typescript,discord,gmail,php&perline=15" />
   </a>
 </p>
 
