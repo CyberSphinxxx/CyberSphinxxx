@@ -44,7 +44,7 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql,lua,cpp,git,figma,github,idea,kali,notion,ps,pr,pycharm,unreal,unity,godot,vscode,wordpress,blender,eclipse,linux,typescript,discord,gmail,php&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql,lua,cpp,git,figma,github,idea,kali,notion,ps,pr,pycharm,unreal,unity,godot,vscode,wordpress,blender,eclipse,linux,typescript,gmail,php,postman,&perline=15" />
   </a>
 </p>
 
