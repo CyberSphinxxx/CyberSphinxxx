@@ -84,6 +84,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 # 🚀 Projects
 <p>Check out some of my favorite projects below!</p>
 
+<details>
+  <summary>Click to show/hide projects</summary>
+  
 <table style="width: 660px; border-collapse: separate; border-spacing: 20px 15px;">
   <tr>
     <td style="border: 2px solid #333; border-radius: 10px; padding: 20px; width: 300px; background-color: #f9f9f9; vertical-align: top;">
@@ -211,4 +214,5 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
   <a href="https://github.com/CyberSphinxxx?tab=repositories">See All My Projects</a>
 </p>
 
+</details>
 ---
