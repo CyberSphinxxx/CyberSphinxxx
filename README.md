@@ -72,8 +72,8 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Inventory Management System - V1.0.0](https://github.com/G5-SIA-BSIT2R5/IMS-Tkinter/releases/tag/v1.0.0) in [G5-SIA-BSIT2R5/IMS-Tkinter](https://github.com/G5-SIA-BSIT2R5/IMS-Tkinter)
-2. 🎉 Merged PR [#1](https://github.com/G5-SIA-BSIT2R5/OtakuVerseBackend/pull/1) in [G5-SIA-BSIT2R5/OtakuVerseBackend](https://github.com/G5-SIA-BSIT2R5/OtakuVerseBackend)
+1. 🔒 Closed issue [#2](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/2) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
+2. 🔒 Closed issue [#3](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/3) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
 3. 🚀 Published release [v1.0.0 - OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/releases/tag/v1.0.0) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
 <!--END_SECTION:activity-->
 
