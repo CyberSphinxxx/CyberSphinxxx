@@ -77,9 +77,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/NBlancs/CoralVision-ObjectDetection/pull/1) in [NBlancs/CoralVision-ObjectDetection](https://github.com/NBlancs/CoralVision-ObjectDetection)
-2. 🔒 Closed issue [#2](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/2) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
-3. 🔒 Closed issue [#3](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/3) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
+1. 🗣 Commented on [#39](https://github.com/gdgoc-ustp/USTP-Website/pull/39#issuecomment-3243911008) in [gdgoc-ustp/USTP-Website](https://github.com/gdgoc-ustp/USTP-Website)
+2. 💪 Opened PR [#1](undefined) in [USTP-CoralVision/CoralVision-ObjectDetection](https://github.com/USTP-CoralVision/CoralVision-ObjectDetection)
+3. 🔒 Closed issue [#2](https://github.com/G5-SIA-BSIT2R5/OtakuVerse/issues/2) in [G5-SIA-BSIT2R5/OtakuVerse](https://github.com/G5-SIA-BSIT2R5/OtakuVerse)
 <!--END_SECTION:activity-->
 
 ---
