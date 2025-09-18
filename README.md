@@ -77,7 +77,7 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [🚀 Release v1.0.0 – Initial Expo App Setup  ](https://github.com/MobileProgramming-USTP/mobile-prog/releases/tag/v1.0.0) in [MobileProgramming-USTP/mobile-prog](https://github.com/MobileProgramming-USTP/mobile-prog)
+1. 💪 Opened PR [#1](https://github.com/NBlancs/CoralVision-ObjectDetection/pull/1) in [NBlancs/CoralVision-ObjectDetection](https://github.com/NBlancs/CoralVision-ObjectDetection)
 2. 🚀 Published release [AlbionOnline-ObjectDetection - V1.0.0](https://github.com/CyberSphinxxx/Albion-Online-Object-Detection/releases/tag/v1.0.0) in [CyberSphinxxx/Albion-Online-Object-Detection](https://github.com/CyberSphinxxx/Albion-Online-Object-Detection)
 3. 🗣 Commented on [#39](https://github.com/gdgoc-ustp/USTP-Website/pull/39#issuecomment-3243911008) in [gdgoc-ustp/USTP-Website](https://github.com/gdgoc-ustp/USTP-Website)
 <!--END_SECTION:activity-->
