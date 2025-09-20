@@ -77,9 +77,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Anime UI Overhaul  - v2.0.0](https://github.com/MobileProgramming-USTP/mobile-prog/releases/tag/v2.0.0) in [MobileProgramming-USTP/mobile-prog](https://github.com/MobileProgramming-USTP/mobile-prog)
-2. 💪 Opened PR [#1](https://github.com/NBlancs/CoralVision-ObjectDetection/pull/1) in [NBlancs/CoralVision-ObjectDetection](https://github.com/NBlancs/CoralVision-ObjectDetection)
-3. 🗣 Commented on [#39](https://github.com/gdgoc-ustp/USTP-Website/pull/39#issuecomment-3243911008) in [gdgoc-ustp/USTP-Website](https://github.com/gdgoc-ustp/USTP-Website)
+1. 🚀 Published release [Backend Integration with Convex](https://github.com/MobileProgramming-USTP/mobile-prog/releases/tag/v3.0.0) in [MobileProgramming-USTP/mobile-prog](https://github.com/MobileProgramming-USTP/mobile-prog)
+2. 🚀 Published release [Anime UI Overhaul  - v2.0.0](https://github.com/MobileProgramming-USTP/mobile-prog/releases/tag/v2.0.0) in [MobileProgramming-USTP/mobile-prog](https://github.com/MobileProgramming-USTP/mobile-prog)
+3. 💪 Opened PR [#1](https://github.com/NBlancs/CoralVision-ObjectDetection/pull/1) in [NBlancs/CoralVision-ObjectDetection](https://github.com/NBlancs/CoralVision-ObjectDetection)
 <!--END_SECTION:activity-->
 
 ---
