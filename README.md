@@ -77,9 +77,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V3.1.0](https://github.com/MobileProgramming-USTP/Anisekai/releases/tag/V3.1.0) in [MobileProgramming-USTP/Anisekai](https://github.com/MobileProgramming-USTP/Anisekai)
-2. 🚀 Published release [Backend Integration with Convex](https://github.com/MobileProgramming-USTP/mobile-prog/releases/tag/v3.0.0) in [MobileProgramming-USTP/mobile-prog](https://github.com/MobileProgramming-USTP/mobile-prog)
-3. 🚀 Published release [Anime UI Overhaul  - v2.0.0](https://github.com/MobileProgramming-USTP/mobile-prog/releases/tag/v2.0.0) in [MobileProgramming-USTP/mobile-prog](https://github.com/MobileProgramming-USTP/mobile-prog)
+1. 🚀 Published release [NumberMind V2](https://github.com/CyberSphinxxx/NumberMind/releases/tag/v2.0.0) in [CyberSphinxxx/NumberMind](https://github.com/CyberSphinxxx/NumberMind)
+2. 🚀 Published release [V3.1.0](https://github.com/MobileProgramming-USTP/Anisekai/releases/tag/V3.1.0) in [MobileProgramming-USTP/Anisekai](https://github.com/MobileProgramming-USTP/Anisekai)
+3. 🚀 Published release [Backend Integration with Convex](https://github.com/MobileProgramming-USTP/mobile-prog/releases/tag/v3.0.0) in [MobileProgramming-USTP/mobile-prog](https://github.com/MobileProgramming-USTP/mobile-prog)
 <!--END_SECTION:activity-->
 
 ---
