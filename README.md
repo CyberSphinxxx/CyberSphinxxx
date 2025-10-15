@@ -77,9 +77,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [CyberSphinxxx/nano-banana-image-prompts](https://github.com/CyberSphinxxx/nano-banana-image-prompts)
-2. 🚀 Published release [Using -onedir for less windows flag](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/releases/tag/v2.1.5) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
-3. 🚀 Published release [v2.1.0 - Executable Fix](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/releases/tag/v2.1.0) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+1. 🚀 Published release [Anisekai - Major Release](https://github.com/MobileProgramming-USTP/Anisekai/releases/tag/v4.0.0) in [MobileProgramming-USTP/Anisekai](https://github.com/MobileProgramming-USTP/Anisekai)
+2. 💪 Opened PR [#1](undefined) in [CyberSphinxxx/nano-banana-image-prompts](https://github.com/CyberSphinxxx/nano-banana-image-prompts)
+3. 🚀 Published release [Using -onedir for less windows flag](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/releases/tag/v2.1.5) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
 <!--END_SECTION:activity-->
 
 ---
