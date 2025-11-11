@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersphinxxx&label=Profile%20views&color=0e75b6&style=flat" alt="cybersphinxxx" /> </p>
 
-[![committers.top badge](https://user-badge.committers.top/philippines/USERNAME.svg)](https://user-badge.committers.top/philippines/CyberSphinxxx)
+[![committers.top badge](https://user-badge.committers.top/philippines/CyberSphinxxx.svg)](https://user-badge.committers.top/philippines/CyberSphinxxx)
 
 <h3 align="left">Introduction</h3>
 <p>Web Developer, Programmer, Philanthropist, and Student Leader.</p>
