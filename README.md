@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Initial Workflow Tester Release](https://github.com/CyberSphinxxx/workflow-tester/releases/tag/v1.0.0) in [CyberSphinxxx/workflow-tester](https://github.com/CyberSphinxxx/workflow-tester)
-2. 🚀 Published release [Anisekai - Major Release](https://github.com/MobileProgramming-USTP/Anisekai/releases/tag/v4.0.0) in [MobileProgramming-USTP/Anisekai](https://github.com/MobileProgramming-USTP/Anisekai)
-3. 🚀 Published release [Using -onedir for less windows flag](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/releases/tag/v2.1.5) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+1. 🗣 Commented on [#1](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/pull/1#issuecomment-3531149341) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+2. 🚀 Published release [v1.0.0 — Initial Workflow Tester Release](https://github.com/CyberSphinxxx/workflow-tester/releases/tag/v1.0.0) in [CyberSphinxxx/workflow-tester](https://github.com/CyberSphinxxx/workflow-tester)
+3. 🚀 Published release [Anisekai - Major Release](https://github.com/MobileProgramming-USTP/Anisekai/releases/tag/v4.0.0) in [MobileProgramming-USTP/Anisekai](https://github.com/MobileProgramming-USTP/Anisekai)
 <!--END_SECTION:activity-->
 
 ---
