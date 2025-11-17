@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](undefined) in [gdgoc-ustp/USTP-Website](https://github.com/gdgoc-ustp/USTP-Website)
-2. 🗣 Commented on [#1](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/pull/1#issuecomment-3531149341) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
-3. 🚀 Published release [v1.0.0 — Initial Workflow Tester Release](https://github.com/CyberSphinxxx/workflow-tester/releases/tag/v1.0.0) in [CyberSphinxxx/workflow-tester](https://github.com/CyberSphinxxx/workflow-tester)
+1. 🗣 Commented on [#3](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/3#issuecomment-3543753297) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+2. 💪 Opened PR [#47](undefined) in [gdgoc-ustp/USTP-Website](https://github.com/gdgoc-ustp/USTP-Website)
+3. 🗣 Commented on [#1](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/pull/1#issuecomment-3531149341) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
 <!--END_SECTION:activity-->
 
 ---
