@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1.  Assigned issue [#3](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/3) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
-2.  Labeled issue [#3](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/3) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
-3. 🔒 Closed issue [#3](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/3) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+1. 🚀 Published release [Release v1.0.0 - Trashure Initital Release](https://github.com/Trashure-PH/trashure/releases/tag/v1.0.0) in [Trashure-PH/trashure](https://github.com/Trashure-PH/trashure)
+2.  Assigned issue [#3](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/3) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+3.  Labeled issue [#3](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/3) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
 <!--END_SECTION:activity-->
 
 ---
