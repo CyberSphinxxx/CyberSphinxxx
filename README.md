@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v1.0.0 - Trashure Initital Release](https://github.com/Trashure-PH/trashure/releases/tag/v1.0.0) in [Trashure-PH/trashure](https://github.com/Trashure-PH/trashure)
-2.  Assigned issue [#3](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/3) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
-3.  Labeled issue [#3](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/3) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+1. ❌ Reopened PR [#1](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
+2. ❌ Closed PR [#1](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
+3. 🗣 Commented on [#1](https://github.com/SoftEng2025/The-Anonymous-Wall/pull/1#issuecomment-3566748405) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
 <!--END_SECTION:activity-->
 
 ---
