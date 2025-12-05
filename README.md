@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#67](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
-2. 💪 Opened PR [#67](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
-3. ❌ Merged PR [#66](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
+1. ❌ Merged PR [#68](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
+2. ❌ Labeled PR [#68](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
+3. ❌ Assigned PR [#68](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
 <!--END_SECTION:activity-->
 
 ---
