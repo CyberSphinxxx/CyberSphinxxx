@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Acadify Initial Core Foundation Release](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.0.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
-2. ❌ Labeled PR [#76](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
-3. ❌ Merged PR [#76](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
+1. 🚀 Published release [Upgrade Tasks module to full-featured Task Manager](https://github.com/CyberSphinxxx/Acadify/releases/tag/v.1.1.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+2. 🚀 Published release [Acadify Initial Core Foundation Release](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.0.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+3. ❌ Labeled PR [#76](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
 <!--END_SECTION:activity-->
 
 ---
