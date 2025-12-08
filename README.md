@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Upgrade Notes Module to Knowledge Base](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.2.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
-2. 🚀 Published release [Upgrade Tasks module to full-featured Task Manager](https://github.com/CyberSphinxxx/Acadify/releases/tag/v.1.1.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
-3. 🚀 Published release [Acadify Initial Core Foundation Release](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.0.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+1. 🚀 Published release [Schedule Tab and Dashboard Updates](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.3.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+2. 🚀 Published release [Upgrade Notes Module to Knowledge Base](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.2.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+3. 🚀 Published release [Upgrade Tasks module to full-featured Task Manager](https://github.com/CyberSphinxxx/Acadify/releases/tag/v.1.1.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
 <!--END_SECTION:activity-->
 
 ---
