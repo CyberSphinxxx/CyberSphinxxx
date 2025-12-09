@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Focus Studio Upgrade: Session Persistence, Task Management, and Resume Dashboard](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.5.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
-2. 🚀 Published release [Focus Studio and Cleanup Routing](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.4.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
-3. 🚀 Published release [Schedule Tab and Dashboard Updates](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.3.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+1. 🗣 Commented on [#77](https://github.com/SoftEng2025/The-Anonymous-Wall/pull/77#issuecomment-3631625228) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
+2. ❌ Assigned PR [#77](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
+3. ❌ Labeled PR [#77](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
 <!--END_SECTION:activity-->
 
 ---
