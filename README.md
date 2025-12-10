@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Implement Schedule & Task Improvements, Focus Mode Fixes, and System Upgrades](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.6.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
-2. ❌ Labeled PR [#82](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
-3. ❌ Unassigned PR [#82](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
+1. 🚀 Published release [Note Folders, Focus Session Isolation, and Documentation Overhaul](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.7.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+2. 🚀 Published release [Implement Schedule & Task Improvements, Focus Mode Fixes, and System Upgrades](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.6.0) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+3. ❌ Labeled PR [#82](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
 <!--END_SECTION:activity-->
 
 ---
