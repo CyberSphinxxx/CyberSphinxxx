@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Dark Mode with system-aware theme toggle](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.8.5) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
-2. 🚀 Published release [Delete Date, Task Editing, and Dashboard Sync](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.8.4) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
-3. 🚀 Published release [Prevent duplicate note creation and add loading state to Notes tab](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.8.3) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+1. ❌ Assigned PR [#85](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
+2. 🚀 Published release [Dark Mode with system-aware theme toggle](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.8.5) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+3. 🚀 Published release [Delete Date, Task Editing, and Dashboard Sync](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.8.4) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
 <!--END_SECTION:activity-->
 
 ---
