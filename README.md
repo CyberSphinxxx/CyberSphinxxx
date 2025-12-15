@@ -23,7 +23,7 @@
   <li>⚒️ Currently Working on: <a href="https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot"><strong>MagicGardenDiscordBot</strong></a></li> 
   <li>💬 Ask me about <strong>Web Development and CyberSecurity</strong></li>
   <li>📫 How to reach me: <a href="mailto:johnlemargonzales@gmail.com">johnlemargonzales@gmail.com</a></li>
-  <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/11hbulKKPnj12hJPeKxfnRlMxNJbCt9AM/view?usp=drive_link" target="_blank">Resume (Not Updated)</a></li>
+  <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1mGCkLMhAFvFN-etnsAwh3DTWVv7sFSXz/view?usp=sharing" target="_blank">Resume</a></li>
 </ul>
 
 ## Experiences
