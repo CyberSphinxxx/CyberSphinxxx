@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Tasks Bugfix](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.8.6) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
-2. ❌ Assigned PR [#85](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
-3. 🚀 Published release [Dark Mode with system-aware theme toggle](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.8.5) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+1. 🚀 Published release [Note Editor Optimization](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.8.7) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+2. 🚀 Published release [Tasks Bugfix](https://github.com/CyberSphinxxx/Acadify/releases/tag/v1.8.6) in [CyberSphinxxx/Acadify](https://github.com/CyberSphinxxx/Acadify)
+3. ❌ Assigned PR [#85](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
 <!--END_SECTION:activity-->
 
 ---
