@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [TypeGlow Overhaul](https://github.com/CyberSphinxxx/TypeGlow/releases/tag/v2.0.0) in [CyberSphinxxx/TypeGlow](https://github.com/CyberSphinxxx/TypeGlow)
-2. ❌ Assigned PR [#4](undefined) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
-3. ❌ Merged PR [#91](undefined) in [SoftEng2025/The-Anonymous-Wall](https://github.com/SoftEng2025/The-Anonymous-Wall)
+1. 🚀 Published release [v3.0.0: UI/UX Overhaul](https://github.com/CyberSphinxxx/TypeGlow/releases/tag/v3.0.0) in [CyberSphinxxx/TypeGlow](https://github.com/CyberSphinxxx/TypeGlow)
+2. 🚀 Published release [TypeGlow Overhaul](https://github.com/CyberSphinxxx/TypeGlow/releases/tag/v2.0.0) in [CyberSphinxxx/TypeGlow](https://github.com/CyberSphinxxx/TypeGlow)
+3. ❌ Assigned PR [#4](undefined) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
 <!--END_SECTION:activity-->
 
 ---
