@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.1.0 Profile Page](https://github.com/CyberSphinxxx/TypeGlow/releases/tag/v3.1.0) in [CyberSphinxxx/TypeGlow](https://github.com/CyberSphinxxx/TypeGlow)
-2. 🚀 Published release [v3.0.0: UI/UX Overhaul](https://github.com/CyberSphinxxx/TypeGlow/releases/tag/v3.0.0) in [CyberSphinxxx/TypeGlow](https://github.com/CyberSphinxxx/TypeGlow)
-3. 🚀 Published release [TypeGlow Overhaul](https://github.com/CyberSphinxxx/TypeGlow/releases/tag/v2.0.0) in [CyberSphinxxx/TypeGlow](https://github.com/CyberSphinxxx/TypeGlow)
+1. 🚀 Published release [TypeGlow v3.2.0 Release Notes](https://github.com/CyberSphinxxx/TypeGlow/releases/tag/v3.2.0) in [CyberSphinxxx/TypeGlow](https://github.com/CyberSphinxxx/TypeGlow)
+2. 🚀 Published release [v3.1.0 Profile Page](https://github.com/CyberSphinxxx/TypeGlow/releases/tag/v3.1.0) in [CyberSphinxxx/TypeGlow](https://github.com/CyberSphinxxx/TypeGlow)
+3. 🚀 Published release [v3.0.0: UI/UX Overhaul](https://github.com/CyberSphinxxx/TypeGlow/releases/tag/v3.0.0) in [CyberSphinxxx/TypeGlow](https://github.com/CyberSphinxxx/TypeGlow)
 <!--END_SECTION:activity-->
 
 ---
