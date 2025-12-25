@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#5](undefined) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
-2. 💪 Opened PR [#5](undefined) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
-3. 🚀 Published release [v3.0.0 - Major UI Overhaul](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/releases/tag/v3.0.0) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+1. 🚀 Published release [DailyBread Initial Release](https://github.com/CyberSphinxxx/DailyBread/releases/tag/v1.0.0) in [CyberSphinxxx/DailyBread](https://github.com/CyberSphinxxx/DailyBread)
+2. ❌ Merged PR [#5](undefined) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+3. 💪 Opened PR [#5](undefined) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
 <!--END_SECTION:activity-->
 
 ---
