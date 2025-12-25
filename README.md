@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 - Initial Release](https://github.com/CyberSphinxxx/AI-Moral-Dilemma/releases/tag/v1.0.0) in [CyberSphinxxx/AI-Moral-Dilemma](https://github.com/CyberSphinxxx/AI-Moral-Dilemma)
-2. 🚀 Published release [Release v3.3.0 - Achievements & Anti-Cheat](https://github.com/CyberSphinxxx/TypeGlow/releases/tag/v3.3.0) in [CyberSphinxxx/TypeGlow](https://github.com/CyberSphinxxx/TypeGlow)
-3. 🚀 Published release [TypeGlow v3.2.0 Release Notes](https://github.com/CyberSphinxxx/TypeGlow/releases/tag/v3.2.0) in [CyberSphinxxx/TypeGlow](https://github.com/CyberSphinxxx/TypeGlow)
+1. ❌ Merged PR [#5](undefined) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+2. 💪 Opened PR [#5](undefined) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+3. 🚀 Published release [v3.0.0 - Major UI Overhaul](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/releases/tag/v3.0.0) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
 <!--END_SECTION:activity-->
 
 ---
