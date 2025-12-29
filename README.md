@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/CyberSphinxxx/Geographic-Information-System-Database/releases/tag/v1.0.0) in [CyberSphinxxx/Geographic-Information-System-Database](https://github.com/CyberSphinxxx/Geographic-Information-System-Database)
-2. 🚀 Published release [DailyBread Initial Release](https://github.com/CyberSphinxxx/DailyBread/releases/tag/v1.0.0) in [CyberSphinxxx/DailyBread](https://github.com/CyberSphinxxx/DailyBread)
-3. ❌ Merged PR [#5](undefined) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+1. 🚀 Published release [v1.1.0 - Learn GIS Educational Page](https://github.com/CyberSphinxxx/Geographic-Information-System-Database/releases/tag/v1.1.0) in [CyberSphinxxx/Geographic-Information-System-Database](https://github.com/CyberSphinxxx/Geographic-Information-System-Database)
+2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/CyberSphinxxx/Geographic-Information-System-Database/releases/tag/v1.0.0) in [CyberSphinxxx/Geographic-Information-System-Database](https://github.com/CyberSphinxxx/Geographic-Information-System-Database)
+3. 🚀 Published release [DailyBread Initial Release](https://github.com/CyberSphinxxx/DailyBread/releases/tag/v1.0.0) in [CyberSphinxxx/DailyBread](https://github.com/CyberSphinxxx/DailyBread)
 <!--END_SECTION:activity-->
 
 ---
