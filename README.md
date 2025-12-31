@@ -18,7 +18,7 @@
 <p>Web Developer, Programmer, Philanthropist, and Student Leader.</p>
 
 <ul>
-  <li>🏫 BSIT, University of Science and Technology of Southern Philippines, CDO</li>
+  <li>🏫 BSIT, University of Science and Technology of Southern Philippines</li>
   <li>🌱 Currently learning <strong>C, Python, Java, Linux, Ethical Hacking, HTML, CSS, JavaScript, Game Development, Unreal Engine, Unity, Godot, Flutter</strong></li>
   <li>⚒️ Currently Working on: <a href="https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot"><strong>MagicGardenDiscordBot</strong></a></li> 
   <li>💬 Ask me about <strong>Web Development and CyberSecurity</strong></li>
