@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.3.0 - Interactive Console REPL & Resizable Console](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v2.3.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
-2. 🚀 Published release [v2.2.0 - UI Overhaul: Enhanced Settings Modal & Editor Themes](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v2.2.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
-3. 🗣 Commented on [#6](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/6#issuecomment-3703249013) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+1. 🚀 Published release [v2.4.0 - Export to Single HTML File & Header Dropdown](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v2.4.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
+2. 🚀 Published release [v2.3.0 - Interactive Console REPL & Resizable Console](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v2.3.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
+3. 🚀 Published release [v2.2.0 - UI Overhaul: Enhanced Settings Modal & Editor Themes](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v2.2.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
 <!--END_SECTION:activity-->
 
 ---
