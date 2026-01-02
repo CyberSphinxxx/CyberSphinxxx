@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.1.0 - Public Profiles & Community Hub](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.1.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
-2. 🚀 Published release [v3.0.0 – SaaS Dashboard & Enhanced Project Management](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.0.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
-3. 🚀 Published release [v2.5.0 – Cloud Sync & Project Dashboard](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v2.5.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
+1. 🚀 Published release [v3.1.1 - Fix: Public Profile Access & Error Handling](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.1.1) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
+2. 🚀 Published release [v3.1.0 - Public Profiles & Community Hub](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.1.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
+3. 🚀 Published release [v3.0.0 – SaaS Dashboard & Enhanced Project Management](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.0.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
 <!--END_SECTION:activity-->
 
 ---
