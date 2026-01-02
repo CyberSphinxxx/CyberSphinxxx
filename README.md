@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Editor Persistence, Community Publishing & Data Integrity Fixes](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.2.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
-2. 🚀 Published release [v3.1.1 - Fix: Public Profile Access & Error Handling](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.1.1) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
-3. 🚀 Published release [v3.1.0 - Public Profiles & Community Hub](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.1.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
+1. 🚀 Published release [Performance Overhaul: Route-Based Splitting & Strategic Bundle Chunking](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.3.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
+2. 🚀 Published release [Editor Persistence, Community Publishing & Data Integrity Fixes](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.2.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
+3. 🚀 Published release [v3.1.1 - Fix: Public Profile Access & Error Handling](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.1.1) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
 <!--END_SECTION:activity-->
 
 ---
