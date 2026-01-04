@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/6#issuecomment-3707901091) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
-2. 🗣 Commented on [#6](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/6#issuecomment-3707893521) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
-3. 🚀 Published release [Performance Overhaul: Route-Based Splitting & Strategic Bundle Chunking](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.3.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
+1. 🚀 Published release [Guest Mode & Hybrid Storage Update](https://github.com/CyberSphinxxx/CodeSplit/releases/tag/v3.4.0) in [CyberSphinxxx/CodeSplit](https://github.com/CyberSphinxxx/CodeSplit)
+2. 🗣 Commented on [#6](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/6#issuecomment-3707901091) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+3. 🗣 Commented on [#6](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/6#issuecomment-3707893521) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
 <!--END_SECTION:activity-->
 
 ---
