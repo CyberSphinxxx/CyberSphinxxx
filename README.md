@@ -20,7 +20,7 @@
 <ul>
   <li>🏫 BSIT, University of Science and Technology of Southern Philippines</li>
   <li>🌱 Currently learning <strong>C, Python, Java, Linux, Ethical Hacking, HTML, CSS, JavaScript, Game Development, Unreal Engine, Unity, Godot, Flutter</strong></li>
-  <li>⚒️ Currently Working on: <a href="https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot"><strong>MagicGardenDiscordBot</strong></a></li> 
+  <li>⚒️ Currently Working on: <a href="https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot"><strong>MagicGardenAutomationBot</strong></a></li> 
   <li>💬 Ask me about <strong>Web Development and CyberSecurity</strong></li>
   <li>📫 How to reach me: <a href="mailto:johnlemargonzales@gmail.com">johnlemargonzales@gmail.com</a></li>
   <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1mGCkLMhAFvFN-etnsAwh3DTWVv7sFSXz/view?usp=sharing" target="_blank">Resume</a></li>
