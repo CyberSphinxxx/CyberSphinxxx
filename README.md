@@ -82,9 +82,9 @@ Explore my professional experiences on [LinkedIn](https://linkedin.com/in/john-l
 
 ## 🔔 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/6) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
-2. 🗣 Commented on [#6](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/6#issuecomment-3728697503) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
-3. 🗣 Commented on [#9](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot/issues/9#issuecomment-3728469895) in [CyberSphinxxx/Magic-Garden-Discord-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Discord-Bot)
+1. 🚀 Published release [Release v3.1.2 - Cross-Platform Compatibility Fix](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/releases/tag/v3.1.2) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
+2. ℹ️ Labeled issue [#10](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/10) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
+3. ℹ️ Assigned issue [#10](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/10) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
 <!--END_SECTION:activity-->
 
 ---
