@@ -12,6 +12,12 @@ jobs:
       
     steps:
       - uses: actions/checkout@v3
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "CyberSphinxxx"
+          git config --global user.email "johnlemargonzales@gmail.com"
+
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
