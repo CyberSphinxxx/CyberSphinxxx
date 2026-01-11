@@ -199,9 +199,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/10) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
-2. 🚀 Published release [ Release v3.1.3 - Auto Update & OpenCV Bugfix](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/releases/tag/v3.1.3) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
-3. 🔒 Closed issue [#1](https://github.com/rodelcoder1/AssumpHelper/issues/1) in [rodelcoder1/AssumpHelper](https://github.com/rodelcoder1/AssumpHelper)
+1. 🚀 Published release [Miru v1.0.0 Release Notes](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.0.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+2. 🔒 Closed issue [#10](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/10) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
+3. 🚀 Published release [ Release v3.1.3 - Auto Update & OpenCV Bugfix](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/releases/tag/v3.1.3) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
 <!--END_SECTION:activity-->
 
 ---
