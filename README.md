@@ -199,9 +199,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Navbar Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.3.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-2. 🚀 Published release [Homepage Redesign - Dynamic Discovery Hub](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.2.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-3. 🚀 Published release [v1.1.0 - Premium Watch Experience](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.1.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+1. 🚀 Published release [Vercel Deployment and Logo](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.4.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+2. 🚀 Published release [Navbar Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.3.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+3. 🚀 Published release [Homepage Redesign - Dynamic Discovery Hub](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.2.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
 <!--END_SECTION:activity-->
 
 ---
