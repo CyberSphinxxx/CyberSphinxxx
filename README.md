@@ -199,9 +199,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.7.0 - Minor Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.7.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-2. 🚀 Published release [v1.6.0 - Deep Refactor](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.6.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-3. 🚀 Published release [v1.5.0 - Hybrid Streaming & UI Unification](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.5.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+1. 🚀 Published release [Release v1.8.0 - Backend Firebase Integration and Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.8.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+2. 🚀 Published release [v1.7.0 - Minor Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.7.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+3. 🚀 Published release [v1.6.0 - Deep Refactor](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.6.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
 <!--END_SECTION:activity-->
 
 ---
