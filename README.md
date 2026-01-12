@@ -199,9 +199,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Miru v1.0.0 Release Notes](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.0.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-2. 🔒 Closed issue [#10](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/10) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
-3. 🚀 Published release [ Release v3.1.3 - Auto Update & OpenCV Bugfix](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/releases/tag/v3.1.3) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
+1. 🚀 Published release [Navbar Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.3.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+2. 🚀 Published release [Homepage Redesign - Dynamic Discovery Hub](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.2.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+3. 🚀 Published release [v1.1.0 - Premium Watch Experience](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.1.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
 <!--END_SECTION:activity-->
 
 ---
