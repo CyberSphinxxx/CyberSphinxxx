@@ -199,9 +199,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/11#issuecomment-3756172439) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
-2. 🚀 Published release [Electron Desktop Application Support](https://github.com/CyberSphinxxx/Miru/releases/tag/V1.9.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-3. 🚀 Published release [Release v1.8.0 - Backend Firebase Integration and Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.8.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+1. 🚀 Published release [v1.10.0 – Video Player Fix](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.10.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+2. ℹ️ Assigned issue [#11](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/11) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
+3. 🗣 Commented on [#11](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/11#issuecomment-3756181864) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
 <!--END_SECTION:activity-->
 
 ---
