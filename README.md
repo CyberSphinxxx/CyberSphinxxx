@@ -201,7 +201,7 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 <!--START_SECTION:activity-->
 1. 🚀 Published release [Electron Desktop Application Support](https://github.com/CyberSphinxxx/Miru/releases/tag/V1.9.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
 2. 🚀 Published release [Release v1.8.0 - Backend Firebase Integration and Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.8.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-3. 🚀 Published release [v1.7.0 - Minor Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.7.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+3. 🚀 Published release [v1.7.0 - Minor Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/untagged-c7bab94170b8d2a32b3c) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
 <!--END_SECTION:activity-->
 
 ---
