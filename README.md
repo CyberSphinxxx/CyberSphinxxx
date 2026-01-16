@@ -199,9 +199,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/12) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
-2. 🚀 Published release [v1.10.2 – Performance Optimization Update](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.10.2) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-3. 🚀 Published release [v1.10.1 - History & UX Polish](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.10.1) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+1. 🚀 Published release [v1.11.0 - Manga Section Integration](https://github.com/CyberSphinxxx/Miru/releases/tag/v.1.11.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+2. ❗ Opened issue [#12](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/12) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
+3. 🚀 Published release [v1.10.2 – Performance Optimization Update](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.10.2) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
 <!--END_SECTION:activity-->
 
 ---
