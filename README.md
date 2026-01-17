@@ -199,9 +199,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [ Release v1.12.0 - UI Polish & Detail Page Overhaul](https://github.com/CyberSphinxxx/Miru/releases/tag/v.1.12.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-2. 🚀 Published release [Fixes and Stability Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.11.1) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-3. 🚀 Published release [v1.11.0 - Manga Section Integration](https://github.com/CyberSphinxxx/Miru/releases/tag/v.1.11.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+1. 🚀 Published release [v1.13.0 - Anime Airing Schedule Feature](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.13.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+2. 🚀 Published release [ Release v1.12.0 - UI Polish & Detail Page Overhaul](https://github.com/CyberSphinxxx/Miru/releases/tag/v.1.12.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+3. 🚀 Published release [Fixes and Stability Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.11.1) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
 <!--END_SECTION:activity-->
 
 ---
