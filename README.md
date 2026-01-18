@@ -199,9 +199,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.13.0 - Anime Airing Schedule Feature](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.13.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-2. 🚀 Published release [ Release v1.12.0 - UI Polish & Detail Page Overhaul](https://github.com/CyberSphinxxx/Miru/releases/tag/v.1.12.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-3. 🚀 Published release [Fixes and Stability Improvements](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.11.1) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+1. ℹ️ Labeled issue [#11](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/11) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
+2. ℹ️ Labeled PR [#14](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/pull/14) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
+3. ℹ️ Labeled PR [#14](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/pull/14) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
 <!--END_SECTION:activity-->
 
 ---
