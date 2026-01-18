@@ -199,8 +199,8 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#11](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/11) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
-2. ℹ️ Labeled PR [#14](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/pull/14) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
+1. 🚀 Published release [v1.14.0 - Instant Reader Update](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.14.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+2. ℹ️ Labeled issue [#11](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/11) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
 3. ℹ️ Labeled PR [#14](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/pull/14) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
 <!--END_SECTION:activity-->
 
