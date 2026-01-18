@@ -199,9 +199,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/15#issuecomment-3765039601) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
-2. 🚀 Published release [v1.14.0 - Instant Reader Update](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.14.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-3. ℹ️ Labeled issue [#11](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot/issues/11) in [CyberSphinxxx/Magic-Garden-Automation-Bot](https://github.com/CyberSphinxxx/Magic-Garden-Automation-Bot)
+1. 🔒 Closed issue [#15](https://github.com/CyberSphinxxx/Garden-Game-QoL/issues/15) in [CyberSphinxxx/Garden-Game-QoL](https://github.com/CyberSphinxxx/Garden-Game-QoL)
+2. 🔒 Closed issue [#11](https://github.com/CyberSphinxxx/Garden-Game-QoL/issues/11) in [CyberSphinxxx/Garden-Game-QoL](https://github.com/CyberSphinxxx/Garden-Game-QoL)
+3. ℹ️ Labeled issue [#11](https://github.com/CyberSphinxxx/Garden-Game-QoL/issues/11) in [CyberSphinxxx/Garden-Game-QoL](https://github.com/CyberSphinxxx/Garden-Game-QoL)
 <!--END_SECTION:activity-->
 
 ---
