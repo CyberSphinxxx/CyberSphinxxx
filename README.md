@@ -199,9 +199,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.15.0 - Manga Reader Enhancements & Performance Updates](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.15.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-2. 🔒 Closed issue [#15](https://github.com/CyberSphinxxx/Garden-Game-QoL/issues/15) in [CyberSphinxxx/Garden-Game-QoL](https://github.com/CyberSphinxxx/Garden-Game-QoL)
-3. 🔒 Closed issue [#11](https://github.com/CyberSphinxxx/Garden-Game-QoL/issues/11) in [CyberSphinxxx/Garden-Game-QoL](https://github.com/CyberSphinxxx/Garden-Game-QoL)
+1. 🚀 Published release [v1.15.1 - Manga Reader Performance & UI Fixes](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.15.1) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+2. 🚀 Published release [v1.15.0 - Manga Reader Enhancements & Performance Updates](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.15.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+3. 🔒 Closed issue [#15](https://github.com/CyberSphinxxx/Garden-Game-QoL/issues/15) in [CyberSphinxxx/Garden-Game-QoL](https://github.com/CyberSphinxxx/Garden-Game-QoL)
 <!--END_SECTION:activity-->
 
 ---
