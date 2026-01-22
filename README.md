@@ -40,11 +40,10 @@ const johnLemar = {
     education: {
         degree: "BS Information Technology",
         university: "USTP",
-        year: "2024 - Present"
     },
-    currentlyWorking: "Magic Garden Discord Bot 🤖",
+    currentlyWorking: "Miru",
     askMeAbout: ["Web Dev", "CyberSec", "Game Dev"],
-    funFact: "I debug with console.log() 🐛"
+    funFact: "I debug with console.log() "
 };
 ```
 
