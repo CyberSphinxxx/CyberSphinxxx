@@ -198,9 +198,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0: The AniList Migration](https://github.com/CyberSphinxxx/Miru/releases/tag/v2.0.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-2. 🚀 Published release [v1.15.2 - Performance & Experience Update](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.15.2) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-3. ℹ️ Labeled issue [#17](https://github.com/CyberSphinxxx/Garden-Game-QoL/issues/17) in [CyberSphinxxx/Garden-Game-QoL](https://github.com/CyberSphinxxx/Garden-Game-QoL)
+1. 🚀 Published release [ v2.1.0 - Movie Update Release](https://github.com/CyberSphinxxx/Miru/releases/tag/v2.1.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+2. 🚀 Published release [v2.0.0: The AniList Migration](https://github.com/CyberSphinxxx/Miru/releases/tag/v2.0.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+3. 🚀 Published release [v1.15.2 - Performance & Experience Update](https://github.com/CyberSphinxxx/Miru/releases/tag/v1.15.2) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
 <!--END_SECTION:activity-->
 
 ---
