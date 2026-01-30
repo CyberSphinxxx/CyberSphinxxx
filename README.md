@@ -198,9 +198,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.4.0 - Miru Movies Update: Quick Filters & Continue Watching](https://github.com/CyberSphinxxx/Miru/releases/tag/v2.4.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-2. 🚀 Published release [v.2.3.0 - Customization & Control Update](https://github.com/CyberSphinxxx/Miru/releases/tag/v2.3.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
-3. 🚀 Published release [v2.2.1 - Trending Movies & Visual Polish Update](https://github.com/CyberSphinxxx/Miru/releases/tag/v2.2.1) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+1. ℹ️ Assigned PR [#2](https://github.com/SITE-USTP/SITE-Hack-IT-On-2026/pull/2) in [SITE-USTP/SITE-Hack-IT-On-2026](https://github.com/SITE-USTP/SITE-Hack-IT-On-2026)
+2. 🗣 Commented on [#2](https://github.com/SITE-USTP/SITE-Hack-IT-On-2026/pull/2#issuecomment-3824796988) in [SITE-USTP/SITE-Hack-IT-On-2026](https://github.com/SITE-USTP/SITE-Hack-IT-On-2026)
+3. 🗣 Commented on [#1](https://github.com/SITE-USTP/SITE-Hack-IT-On-2026/pull/1#issuecomment-3824762412) in [SITE-USTP/SITE-Hack-IT-On-2026](https://github.com/SITE-USTP/SITE-Hack-IT-On-2026)
 <!--END_SECTION:activity-->
 
 ---
