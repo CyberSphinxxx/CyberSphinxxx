@@ -198,8 +198,8 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [LinkedIT v1.1.0: Experience Refinement Update](https://github.com/CyberSphinxxx/Linkedit/releases/tag/v1.1.0) in [CyberSphinxxx/Linkedit](https://github.com/CyberSphinxxx/Linkedit)
-2. 🚀 Published release [LinkedIT v1.0.0 – Initial Release](https://github.com/CyberSphinxxx/Linkedit/releases/tag/v1.0.0) in [CyberSphinxxx/Linkedit](https://github.com/CyberSphinxxx/Linkedit)
+1. ℹ️ Assigned PR [#1](https://github.com/ADET-AI-Assistant/ProjectLUMI/pull/1) in [ADET-AI-Assistant/ProjectLUMI](https://github.com/ADET-AI-Assistant/ProjectLUMI)
+2. 💪 Opened PR [#1](https://github.com/ADET-AI-Assistant/ProjectLUMI/pull/1) in [ADET-AI-Assistant/ProjectLUMI](https://github.com/ADET-AI-Assistant/ProjectLUMI)
 3. 🗣 Commented on [#4](https://github.com/SITE-USTP/SITE-Hack-IT-On-2026/pull/4#issuecomment-3827144867) in [SITE-USTP/SITE-Hack-IT-On-2026](https://github.com/SITE-USTP/SITE-Hack-IT-On-2026)
 <!--END_SECTION:activity-->
 
