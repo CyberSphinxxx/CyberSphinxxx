@@ -198,9 +198,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ADET-AI-Assistant/ProjectLUMI/pull/1) in [ADET-AI-Assistant/ProjectLUMI](https://github.com/ADET-AI-Assistant/ProjectLUMI)
-2. ℹ️ Labeled PR [#1](https://github.com/ADET-AI-Assistant/ProjectLUMI/pull/1) in [ADET-AI-Assistant/ProjectLUMI](https://github.com/ADET-AI-Assistant/ProjectLUMI)
-3. ℹ️ Assigned PR [#1](https://github.com/ADET-AI-Assistant/ProjectLUMI/pull/1) in [ADET-AI-Assistant/ProjectLUMI](https://github.com/ADET-AI-Assistant/ProjectLUMI)
+1. 🚀 Published release [v1.2.0 Release](https://github.com/CyberSphinxxx/Linkedit/releases/tag/v1.2.0) in [CyberSphinxxx/Linkedit](https://github.com/CyberSphinxxx/Linkedit)
+2. 🎉 Merged PR [#1](https://github.com/ADET-AI-Assistant/ProjectLUMI/pull/1) in [ADET-AI-Assistant/ProjectLUMI](https://github.com/ADET-AI-Assistant/ProjectLUMI)
+3. ℹ️ Labeled PR [#1](https://github.com/ADET-AI-Assistant/ProjectLUMI/pull/1) in [ADET-AI-Assistant/ProjectLUMI](https://github.com/ADET-AI-Assistant/ProjectLUMI)
 <!--END_SECTION:activity-->
 
 ---
