@@ -198,9 +198,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v1.3.0](https://github.com/CyberSphinxxx/Linkedit/releases/tag/v1.3.0) in [CyberSphinxxx/Linkedit](https://github.com/CyberSphinxxx/Linkedit)
-2. 🚀 Published release [v1.2.0 Release](https://github.com/CyberSphinxxx/Linkedit/releases/tag/v1.2.0) in [CyberSphinxxx/Linkedit](https://github.com/CyberSphinxxx/Linkedit)
-3. 🎉 Merged PR [#1](https://github.com/ADET-AI-Assistant/ProjectLUMI/pull/1) in [ADET-AI-Assistant/ProjectLUMI](https://github.com/ADET-AI-Assistant/ProjectLUMI)
+1. 🚀 Published release [Release - v1.4.0](https://github.com/CyberSphinxxx/Linkedit/releases/tag/v1.4.0) in [CyberSphinxxx/Linkedit](https://github.com/CyberSphinxxx/Linkedit)
+2. 🚀 Published release [Release v1.3.0](https://github.com/CyberSphinxxx/Linkedit/releases/tag/v1.3.0) in [CyberSphinxxx/Linkedit](https://github.com/CyberSphinxxx/Linkedit)
+3. 🚀 Published release [v1.2.0 Release](https://github.com/CyberSphinxxx/Linkedit/releases/tag/v1.2.0) in [CyberSphinxxx/Linkedit](https://github.com/CyberSphinxxx/Linkedit)
 <!--END_SECTION:activity-->
 
 ---
