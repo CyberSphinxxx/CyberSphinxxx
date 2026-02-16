@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header with SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=John%20Lemar%20Gonzales&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CyberSphinx%20%7C%20Web%20Developer%20%7C%20Student%20Leader&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=John%20Lemar%20Gonzales&fontSize=50&fontColor=00c2cb&animation=twinkling&fontAlignY=35&desc=CyberSphinx%20%7C%20Web%20Developer%20%7C%20Student%20Leader&descAlignY=55&descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=80&lines=Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80;Turning+Coffee+into+Code+Since+2020+%E2%98%95)](https://git.io/typing-svg)
 
