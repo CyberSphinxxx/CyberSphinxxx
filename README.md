@@ -143,6 +143,7 @@ const johnLemar = {
 
 ---
 
+<!--
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -164,6 +165,7 @@ const johnLemar = {
   </a>
 </div>
 
+-->
 ---
 
 ## 🎵 Spotify - Now Playing
