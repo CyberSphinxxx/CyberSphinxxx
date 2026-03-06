@@ -200,9 +200,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Vibeo v1.0.0: Your AI-Powered Movie App](https://github.com/ADET-AI-Assistant/Vibeo/releases/tag/v1.0.0) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
-2. 🎉 Merged PR [#48](https://github.com/ADET-AI-Assistant/Vibeo/pull/48) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
-3. ℹ️ Labeled PR [#48](https://github.com/ADET-AI-Assistant/Vibeo/pull/48) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+1. ℹ️ Labeled issue [#54](https://github.com/ADET-AI-Assistant/Vibeo/issues/54) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+2. ❗ Opened issue [#54](https://github.com/ADET-AI-Assistant/Vibeo/issues/54) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+3. ℹ️ Assigned issue [#54](https://github.com/ADET-AI-Assistant/Vibeo/issues/54) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
 <!--END_SECTION:activity-->
 
 ---
