@@ -200,9 +200,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/ADET-AI-Assistant/Vibeo/pull/69) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
-2. ℹ️ Labeled PR [#69](https://github.com/ADET-AI-Assistant/Vibeo/pull/69) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
-3. 💪 Opened PR [#69](https://github.com/ADET-AI-Assistant/Vibeo/pull/69) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+1. ℹ️ Labeled issue [#68](https://github.com/ADET-AI-Assistant/Vibeo/issues/68) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+2. ℹ️ Assigned issue [#68](https://github.com/ADET-AI-Assistant/Vibeo/issues/68) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+3. 🎉 Merged PR [#69](https://github.com/ADET-AI-Assistant/Vibeo/pull/69) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
 <!--END_SECTION:activity-->
 
 ---
