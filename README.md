@@ -200,9 +200,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/ADET-AI-Assistant/Vibeo/pull/71#issuecomment-4145086949) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
-2. ℹ️ Labeled PR [#71](https://github.com/ADET-AI-Assistant/Vibeo/pull/71) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
-3. ℹ️ Assigned PR [#71](https://github.com/ADET-AI-Assistant/Vibeo/pull/71) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+1. 🚀 Published release [v2.5.0 - The Modular Overhaul & Precise Tracking](https://github.com/CyberSphinxxx/Miru/releases/tag/v2.5.0) in [CyberSphinxxx/Miru](https://github.com/CyberSphinxxx/Miru)
+2. 🗣 Commented on [#71](https://github.com/ADET-AI-Assistant/Vibeo/pull/71#issuecomment-4145086949) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+3. ℹ️ Labeled PR [#71](https://github.com/ADET-AI-Assistant/Vibeo/pull/71) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
 <!--END_SECTION:activity-->
 
 ---
