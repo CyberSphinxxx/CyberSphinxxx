@@ -200,9 +200,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release Notes -- pinoy-dev-quotes-api v1.3.0](https://github.com/CyberSphinxxx/pinoy-dev-quotes-api/releases/tag/v1.3.0) in [CyberSphinxxx/pinoy-dev-quotes-api](https://github.com/CyberSphinxxx/pinoy-dev-quotes-api)
-2. 🚀 Published release [v1.2.0 - Introducing API Keys, SDK Entry Points, and Language Filtering](https://github.com/CyberSphinxxx/pinoy-dev-quotes-api/releases/tag/v1.2.0) in [CyberSphinxxx/pinoy-dev-quotes-api](https://github.com/CyberSphinxxx/pinoy-dev-quotes-api)
-3. 🚀 Published release [pinoy-dev-quotes-api v1.1.0](https://github.com/CyberSphinxxx/pinoy-dev-quotes-api/releases/tag/v1.1.0) in [CyberSphinxxx/pinoy-dev-quotes-api](https://github.com/CyberSphinxxx/pinoy-dev-quotes-api)
+1. 🚀 Published release [Release Notes — pinoy-dev-quotes-api v1.3.1](https://github.com/CyberSphinxxx/pinoy-dev-quotes-api/releases/tag/v1.3.1) in [CyberSphinxxx/pinoy-dev-quotes-api](https://github.com/CyberSphinxxx/pinoy-dev-quotes-api)
+2. 🚀 Published release [Release Notes -- pinoy-dev-quotes-api v1.3.0](https://github.com/CyberSphinxxx/pinoy-dev-quotes-api/releases/tag/v1.3.0) in [CyberSphinxxx/pinoy-dev-quotes-api](https://github.com/CyberSphinxxx/pinoy-dev-quotes-api)
+3. 🚀 Published release [v1.2.0 - Introducing API Keys, SDK Entry Points, and Language Filtering](https://github.com/CyberSphinxxx/pinoy-dev-quotes-api/releases/tag/v1.2.0) in [CyberSphinxxx/pinoy-dev-quotes-api](https://github.com/CyberSphinxxx/pinoy-dev-quotes-api)
 <!--END_SECTION:activity-->
 
 ---
