@@ -200,9 +200,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unassigned PR [#83](https://github.com/ADET-AI-Assistant/Vibeo/pull/83) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
-2. ℹ️ Assigned PR [#83](https://github.com/ADET-AI-Assistant/Vibeo/pull/83) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
-3. ℹ️ Labeled PR [#83](https://github.com/ADET-AI-Assistant/Vibeo/pull/83) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+1. 🎉 Merged PR [#2](https://github.com/Spendwise123/spenwise-app/pull/2) in [Spendwise123/spenwise-app](https://github.com/Spendwise123/spenwise-app)
+2. ℹ️ Labeled PR [#2](https://github.com/Spendwise123/spenwise-app/pull/2) in [Spendwise123/spenwise-app](https://github.com/Spendwise123/spenwise-app)
+3. ℹ️ Assigned PR [#2](https://github.com/Spendwise123/spenwise-app/pull/2) in [Spendwise123/spenwise-app](https://github.com/Spendwise123/spenwise-app)
 <!--END_SECTION:activity-->
 
 ---
