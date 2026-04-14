@@ -200,9 +200,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3](https://github.com/Spendwise123/spenwise-app/pull/3) in [Spendwise123/spenwise-app](https://github.com/Spendwise123/spenwise-app)
-2. ℹ️ Assigned PR [#3](https://github.com/Spendwise123/spenwise-app/pull/3) in [Spendwise123/spenwise-app](https://github.com/Spendwise123/spenwise-app)
-3. 💪 Opened PR [#3](https://github.com/Spendwise123/spenwise-app/pull/3) in [Spendwise123/spenwise-app](https://github.com/Spendwise123/spenwise-app)
+1. 🎉 Merged PR [#7](https://github.com/Spendwise123/spendwise-app/pull/7) in [Spendwise123/spendwise-app](https://github.com/Spendwise123/spendwise-app)
+2. ℹ️ Labeled PR [#7](https://github.com/Spendwise123/spendwise-app/pull/7) in [Spendwise123/spendwise-app](https://github.com/Spendwise123/spendwise-app)
+3. ℹ️ Labeled PR [#7](https://github.com/Spendwise123/spendwise-app/pull/7) in [Spendwise123/spendwise-app](https://github.com/Spendwise123/spendwise-app)
 <!--END_SECTION:activity-->
 
 ---
