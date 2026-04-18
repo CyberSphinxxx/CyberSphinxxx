@@ -92,11 +92,12 @@ const johnLemar = {
 </div>
 
 ---
+<!--
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<!-- Animated Icons -->
+<!-- Animated Icons
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
@@ -108,7 +109,7 @@ const johnLemar = {
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 
 </div>
-
+-->
 <div align="center">
 
 | Category | Technologies |
