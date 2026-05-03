@@ -201,9 +201,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/ADET-AI-Assistant/Vibeo/pull/88) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
-2. ℹ️ Labeled PR [#88](https://github.com/ADET-AI-Assistant/Vibeo/pull/88) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
-3. 💪 Opened PR [#88](https://github.com/ADET-AI-Assistant/Vibeo/pull/88) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+1. 🚀 Published release [Initial Release - Student Depression Detector v1.0.0](https://github.com/CyberSphinxxx/student-depression-detector/releases/tag/v1.0.0) in [CyberSphinxxx/student-depression-detector](https://github.com/CyberSphinxxx/student-depression-detector)
+2. 🎉 Merged PR [#88](https://github.com/ADET-AI-Assistant/Vibeo/pull/88) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+3. ℹ️ Labeled PR [#88](https://github.com/ADET-AI-Assistant/Vibeo/pull/88) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
 <!--END_SECTION:activity-->
 
 ---
