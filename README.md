@@ -201,9 +201,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v1.1.0: The Documentation Overhaul Update](https://github.com/LAFINA-AI/LAFINA-WIKI/releases/tag/v1.1.0) in [LAFINA-AI/LAFINA-WIKI](https://github.com/LAFINA-AI/LAFINA-WIKI)
-2. 🚀 Published release [Release v1.0.0: LAFINA Official Wiki & Documentation](https://github.com/LAFINA-AI/LAFINA-WIKI/releases/tag/v1.0.0) in [LAFINA-AI/LAFINA-WIKI](https://github.com/LAFINA-AI/LAFINA-WIKI)
-3. 🚀 Published release [Initial Release - Student Depression Detector v1.0.0](https://github.com/CyberSphinxxx/student-depression-detector/releases/tag/v1.0.0) in [CyberSphinxxx/student-depression-detector](https://github.com/CyberSphinxxx/student-depression-detector)
+1. 🎉 Merged PR [#89](https://github.com/ADET-AI-Assistant/Vibeo/pull/89) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+2. 💪 Opened PR [#89](https://github.com/ADET-AI-Assistant/Vibeo/pull/89) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+3. 🚀 Published release [Release v1.1.0: The Documentation Overhaul Update](https://github.com/LAFINA-AI/LAFINA-WIKI/releases/tag/v1.1.0) in [LAFINA-AI/LAFINA-WIKI](https://github.com/LAFINA-AI/LAFINA-WIKI)
 <!--END_SECTION:activity-->
 
 ---
