@@ -201,9 +201,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/SITE-USTP/SITE-USTP-Website/pull/35#issuecomment-4529691632) in [SITE-USTP/SITE-USTP-Website](https://github.com/SITE-USTP/SITE-USTP-Website)
-2. 🎉 Merged PR [#89](https://github.com/ADET-AI-Assistant/Vibeo/pull/89) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
-3. 💪 Opened PR [#89](https://github.com/ADET-AI-Assistant/Vibeo/pull/89) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+1. ℹ️ Labeled issue [#2](https://github.com/LAFINA-AI/LAFINA/issues/2) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
+2. ❗ Opened issue [#2](https://github.com/LAFINA-AI/LAFINA/issues/2) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
+3. ℹ️ Labeled issue [#1](https://github.com/LAFINA-AI/LAFINA/issues/1) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
 <!--END_SECTION:activity-->
 
 ---
