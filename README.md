@@ -201,9 +201,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2](https://github.com/LAFINA-AI/LAFINA/issues/2) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
-2. ❗ Opened issue [#2](https://github.com/LAFINA-AI/LAFINA/issues/2) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
-3. ℹ️ Labeled issue [#1](https://github.com/LAFINA-AI/LAFINA/issues/1) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
+1. ℹ️ Labeled issue [#9](https://github.com/LAFINA-AI/LAFINA/issues/9) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
+2. ❗ Opened issue [#9](https://github.com/LAFINA-AI/LAFINA/issues/9) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
+3. ℹ️ Labeled issue [#8](https://github.com/LAFINA-AI/LAFINA/issues/8) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
 <!--END_SECTION:activity-->
 
 ---
