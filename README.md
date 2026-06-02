@@ -201,9 +201,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [The Real Neighbors v1.0.0 🎉](https://github.com/CyberSphinxxx/The-Real-Neighbors/releases/tag/v1.0.0) in [CyberSphinxxx/The-Real-Neighbors](https://github.com/CyberSphinxxx/The-Real-Neighbors)
-2. ℹ️ Labeled issue [#9](https://github.com/LAFINA-AI/LAFINA/issues/9) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
-3. ❗ Opened issue [#9](https://github.com/LAFINA-AI/LAFINA/issues/9) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
+1. 🚀 Published release [The Real Neighbors - Release Notes](https://github.com/CyberSphinxxx/The-Real-Neighbors/releases/tag/v1.1.0) in [CyberSphinxxx/The-Real-Neighbors](https://github.com/CyberSphinxxx/The-Real-Neighbors)
+2. 🚀 Published release [The Real Neighbors v1.0.0 🎉](https://github.com/CyberSphinxxx/The-Real-Neighbors/releases/tag/v1.0.0) in [CyberSphinxxx/The-Real-Neighbors](https://github.com/CyberSphinxxx/The-Real-Neighbors)
+3. ℹ️ Labeled issue [#9](https://github.com/LAFINA-AI/LAFINA/issues/9) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
 <!--END_SECTION:activity-->
 
 ---
