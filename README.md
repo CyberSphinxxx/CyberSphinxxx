@@ -201,9 +201,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [The Real Neighbors v1.3.0](https://github.com/CyberSphinxxx/The-Real-Neighbors/releases/tag/v1.3.0) in [CyberSphinxxx/The-Real-Neighbors](https://github.com/CyberSphinxxx/The-Real-Neighbors)
-2. 🚀 Published release [The Real Neighbors v1.2.0](https://github.com/CyberSphinxxx/The-Real-Neighbors/releases/tag/v1.2.0) in [CyberSphinxxx/The-Real-Neighbors](https://github.com/CyberSphinxxx/The-Real-Neighbors)
-3. 🚀 Published release [The Real Neighbors - Release Notes](https://github.com/CyberSphinxxx/The-Real-Neighbors/releases/tag/v1.1.0) in [CyberSphinxxx/The-Real-Neighbors](https://github.com/CyberSphinxxx/The-Real-Neighbors)
+1. 🚀 Published release [The Real Neighbors v1.4.0](https://github.com/CyberSphinxxx/The-Real-Neighbors/releases/tag/v1.4.0) in [CyberSphinxxx/The-Real-Neighbors](https://github.com/CyberSphinxxx/The-Real-Neighbors)
+2. 🚀 Published release [The Real Neighbors v1.3.0](https://github.com/CyberSphinxxx/The-Real-Neighbors/releases/tag/v1.3.0) in [CyberSphinxxx/The-Real-Neighbors](https://github.com/CyberSphinxxx/The-Real-Neighbors)
+3. 🚀 Published release [The Real Neighbors v1.2.0](https://github.com/CyberSphinxxx/The-Real-Neighbors/releases/tag/v1.2.0) in [CyberSphinxxx/The-Real-Neighbors](https://github.com/CyberSphinxxx/The-Real-Neighbors)
 <!--END_SECTION:activity-->
 
 ---
