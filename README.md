@@ -201,9 +201,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [# The Real Neighbors v1.7.0](https://github.com/CyberSphinxxx/The-Real-Neighbors/releases/tag/v1.7.0) in [CyberSphinxxx/The-Real-Neighbors](https://github.com/CyberSphinxxx/The-Real-Neighbors)
-2. 🎉 Merged PR [#92](https://github.com/ADET-AI-Assistant/Vibeo/pull/92) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
-3. 💪 Opened PR [#92](https://github.com/ADET-AI-Assistant/Vibeo/pull/92) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
+1. 🚀 Published release [The Real Neighbors v1.7.1 - Major Bugfix](https://github.com/CyberSphinxxx/The-Real-Neighbors/releases/tag/1.7.1) in [CyberSphinxxx/The-Real-Neighbors](https://github.com/CyberSphinxxx/The-Real-Neighbors)
+2. 🚀 Published release [# The Real Neighbors v1.7.0](https://github.com/CyberSphinxxx/The-Real-Neighbors/releases/tag/v1.7.0) in [CyberSphinxxx/The-Real-Neighbors](https://github.com/CyberSphinxxx/The-Real-Neighbors)
+3. 🎉 Merged PR [#92](https://github.com/ADET-AI-Assistant/Vibeo/pull/92) in [ADET-AI-Assistant/Vibeo](https://github.com/ADET-AI-Assistant/Vibeo)
 <!--END_SECTION:activity-->
 
 ---
