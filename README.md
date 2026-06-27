@@ -201,9 +201,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Dynamic Semantic Theme System](https://github.com/Techdle/Techdle/releases/tag/v1.1.0) in [Techdle/Techdle](https://github.com/Techdle/Techdle)
-2. 🚀 Published release [Initial Release - v1.0.0](https://github.com/Techdle/Techdle/releases/tag/v1.0.0) in [Techdle/Techdle](https://github.com/Techdle/Techdle)
-3. ℹ️ Labeled issue [#20](https://github.com/LAFINA-AI/LAFINA/issues/20) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
+1. 🚀 Published release [Release Notes v1.2.0](https://github.com/Techdle/Techdle/releases/tag/v1.2.0) in [Techdle/Techdle](https://github.com/Techdle/Techdle)
+2. 🚀 Published release [Dynamic Semantic Theme System](https://github.com/Techdle/Techdle/releases/tag/v1.1.0) in [Techdle/Techdle](https://github.com/Techdle/Techdle)
+3. 🚀 Published release [Initial Release - v1.0.0](https://github.com/Techdle/Techdle/releases/tag/v1.0.0) in [Techdle/Techdle](https://github.com/Techdle/Techdle)
 <!--END_SECTION:activity-->
 
 ---
