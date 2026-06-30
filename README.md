@@ -201,9 +201,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#20](https://github.com/LAFINA-AI/LAFINA/issues/20) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
-2. ℹ️ Labeled issue [#20](https://github.com/LAFINA-AI/LAFINA/issues/20) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
-3. ℹ️ Assigned PR [#11](https://github.com/LAFINA-AI/LAFINA/pull/11) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
+1. 🚀 Published release [Release Notes v1.3.0](https://github.com/CyberSphinxxx/Techdle/releases/tag/v1.3.0) in [CyberSphinxxx/Techdle](https://github.com/CyberSphinxxx/Techdle)
+2. 🚀 Published release [Techdle v1.2.1 Release Notes](https://github.com/CyberSphinxxx/Techdle/releases/tag/v1.2.1) in [CyberSphinxxx/Techdle](https://github.com/CyberSphinxxx/Techdle)
+3. ℹ️ Assigned issue [#20](https://github.com/LAFINA-AI/LAFINA/issues/20) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
 <!--END_SECTION:activity-->
 
 ---
