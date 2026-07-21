@@ -201,9 +201,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/LAFINA-AI/LAFINA/issues/7#issuecomment-5020508622) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
-2. 🔒 Closed issue [#7](https://github.com/LAFINA-AI/LAFINA/issues/7) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
-3. 🚀 Published release [Release Notes v1.3.0](https://github.com/CyberSphinxxx/Techdle/releases/tag/v1.3.0) in [CyberSphinxxx/Techdle](https://github.com/CyberSphinxxx/Techdle)
+1. ℹ️ Labeled PR [#1](https://github.com/LAFINA-AI/lafina-page/pull/1) in [LAFINA-AI/lafina-page](https://github.com/LAFINA-AI/lafina-page)
+2. ℹ️ Assigned PR [#1](https://github.com/LAFINA-AI/lafina-page/pull/1) in [LAFINA-AI/lafina-page](https://github.com/LAFINA-AI/lafina-page)
+3. 💪 Opened PR [#1](https://github.com/LAFINA-AI/lafina-page/pull/1) in [LAFINA-AI/lafina-page](https://github.com/LAFINA-AI/lafina-page)
 <!--END_SECTION:activity-->
 
 ---
