@@ -201,9 +201,9 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/LAFINA-AI/lafina-page/pull/2) in [LAFINA-AI/lafina-page](https://github.com/LAFINA-AI/lafina-page)
-2. ℹ️ Labeled PR [#2](https://github.com/LAFINA-AI/lafina-page/pull/2) in [LAFINA-AI/lafina-page](https://github.com/LAFINA-AI/lafina-page)
-3. ℹ️ Assigned PR [#2](https://github.com/LAFINA-AI/lafina-page/pull/2) in [LAFINA-AI/lafina-page](https://github.com/LAFINA-AI/lafina-page)
+1. ℹ️ Labeled issue [#39](https://github.com/LAFINA-AI/LAFINA/issues/39) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
+2. ❗ Opened issue [#39](https://github.com/LAFINA-AI/LAFINA/issues/39) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
+3. ℹ️ Labeled issue [#38](https://github.com/LAFINA-AI/LAFINA/issues/38) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
 <!--END_SECTION:activity-->
 
 ---
