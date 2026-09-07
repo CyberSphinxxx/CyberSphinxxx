@@ -201,7 +201,7 @@ CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [TunnelKeeper - Initial Release](https://github.com/CyberSphinxxx/TunnelKeeper/releases/tag/v1.0.0) in [CyberSphinxxx/TunnelKeeper](https://github.com/CyberSphinxxx/TunnelKeeper)
+1. 🚀 Published release [v1.0.0 - Initial Release](https://github.com/CyberSphinxxx/TunnelKeeper/releases/tag/v1.0.0) in [CyberSphinxxx/TunnelKeeper](https://github.com/CyberSphinxxx/TunnelKeeper)
 2. ℹ️ Labeled issue [#39](https://github.com/LAFINA-AI/LAFINA/issues/39) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
 3. ❗ Opened issue [#39](https://github.com/LAFINA-AI/LAFINA/issues/39) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
 <!--END_SECTION:activity-->
