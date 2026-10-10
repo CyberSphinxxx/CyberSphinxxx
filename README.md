@@ -179,25 +179,6 @@ const johnLemar = {
 
 ---
 
-## 📈 WakaTime Stats
-
-<div align="center">
-
-<!-- WakaTime Weekly Stats - Connect your WakaTime account -->
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░  45.2%
-Python       6 hrs 15 mins   ██████░░░░░░░░░░░░░░░  22.6%
-TypeScript   4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░  15.7%
-HTML         2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░   9.9%
-CSS          1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░   6.6%
-```
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
