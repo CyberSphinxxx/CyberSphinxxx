@@ -182,9 +182,9 @@ const johnLemar = {
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/LAFINA-AI/LAFINA/pull/41) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
-2. 💪 Opened PR [#41](https://github.com/LAFINA-AI/LAFINA/pull/41) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
-3. ❗ Opened issue [#39](https://github.com/LAFINA-AI/LAFINA/issues/39) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
+1. 🚀 Published release [v0.2.0: Phase 02 SQLite Storage & Phase 03 Native Reminder Delivery](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/releases/tag/v0.2.0) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+2. 🚀 Published release [v0.1.0: Phase 00 Architecture & Phase 01 Project Foundation](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/releases/tag/v0.1.0) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+3. 🎉 Merged PR [#41](https://github.com/LAFINA-AI/LAFINA/pull/41) in [LAFINA-AI/LAFINA](https://github.com/LAFINA-AI/LAFINA)
 <!--END_SECTION:activity-->
 
 ---
