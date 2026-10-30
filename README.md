@@ -182,9 +182,9 @@ const johnLemar = {
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/5) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
-2. 💪 Opened PR [#5](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/5) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
-3. ℹ️ Assigned PR [#5](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/5) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
+1. ❌ Closed PR [#9](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/9) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
+2. 🎉 Merged PR [#10](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/10) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
+3. 💪 Opened PR [#10](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/10) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
 <!--END_SECTION:activity-->
 
 ---
