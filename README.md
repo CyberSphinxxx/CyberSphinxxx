@@ -182,9 +182,9 @@ const johnLemar = {
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/1) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
-2. 💪 Opened PR [#1](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/1) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
-3. 🚀 Published release [v0.2.0: Phase 02 SQLite Storage & Phase 03 Native Reminder Delivery](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/releases/tag/v0.2.0) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+1. 🎉 Merged PR [#2](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/2) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
+2. 💪 Opened PR [#2](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/2) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
+3. 🎉 Merged PR [#1](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/1) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
 <!--END_SECTION:activity-->
 
 ---
