@@ -182,9 +182,9 @@ const johnLemar = {
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/1) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
-2. 🎉 Merged PR [#12](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/12) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
-3. 💪 Opened PR [#12](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/12) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
+1. 🎉 Merged PR [#1](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/1) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+2. 💪 Opened PR [#1](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/1) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+3. 🎉 Merged PR [#12](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/pull/12) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
 <!--END_SECTION:activity-->
 
 ---
