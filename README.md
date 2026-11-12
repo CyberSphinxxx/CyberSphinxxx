@@ -182,9 +182,9 @@ const johnLemar = {
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/11) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
-2. ℹ️ Labeled PR [#11](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/11) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
-3. 💪 Opened PR [#11](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/11) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+1. 🎉 Merged PR [#12](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/12) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+2. 💪 Opened PR [#12](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/12) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+3. 🎉 Merged PR [#11](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/11) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
 <!--END_SECTION:activity-->
 
 ---
