@@ -182,9 +182,9 @@ const johnLemar = {
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/LAFINA-AI/LAFINA-backend/pull/4) in [LAFINA-AI/LAFINA-backend](https://github.com/LAFINA-AI/LAFINA-backend)
-2. 🚀 Published release [itnetworking v1.0.0 - Initial Release](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs/releases/tag/v1.0.0) in [CyberSphinxxx/Cisco-Packet-Tracer-Labs](https://github.com/CyberSphinxxx/Cisco-Packet-Tracer-Labs)
-3. 🎉 Merged PR [#12](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/12) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+1. 🎉 Merged PR [#13](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/13) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+2. 💪 Opened PR [#13](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/13) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+3. 💪 Opened PR [#7](https://github.com/LAFINA-AI/LAFINA-backend/pull/7) in [LAFINA-AI/LAFINA-backend](https://github.com/LAFINA-AI/LAFINA-backend)
 <!--END_SECTION:activity-->
 
 ---
