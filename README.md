@@ -182,9 +182,9 @@ const johnLemar = {
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [LAFINA v1.0.0 — The Complete Student AI Secretary](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/releases/tag/v1.0.0) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
-2. ℹ️ Labeled PR [#20](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/20) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
-3. ℹ️ Assigned PR [#20](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/20) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+1. 🚀 Published release [LAFINA v1.0.1 — Smoother Calls, Smarter Reminders & Everyday Polish](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/releases/tag/v1.0.1) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+2. 🚀 Published release [LAFINA v1.0.0 — The Complete Student AI Secretary](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/releases/tag/v1.0.0) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+3. ℹ️ Labeled PR [#20](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/pull/20) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
 <!--END_SECTION:activity-->
 
 ---
