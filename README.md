@@ -182,9 +182,9 @@ const johnLemar = {
 ## 🔔 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [LAFINA v1.0.5 — A Smarter Home, New Themes, and Faster Calls](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/releases/tag/v1.0.5) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
-2. 🚀 Published release [LAFINA v1.0.4 — Ask USTP and a Friendlier Profile](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/releases/tag/v1.0.4) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
-3. 🚀 Published release [LAFINA v1.0.3 — Calls and Chat Fixes](https://github.com/LAFINA-AI/LAFINA-CAPSTONE/releases/tag/v1.0.3) in [LAFINA-AI/LAFINA-CAPSTONE](https://github.com/LAFINA-AI/LAFINA-CAPSTONE)
+1. ❌ Closed PR [#7](https://github.com/LAFINA-AI/LAFINA-backend/pull/7) in [LAFINA-AI/LAFINA-backend](https://github.com/LAFINA-AI/LAFINA-backend)
+2. ℹ️ Labeled PR [#9](https://github.com/LAFINA-AI/LAFINA-backend/pull/9) in [LAFINA-AI/LAFINA-backend](https://github.com/LAFINA-AI/LAFINA-backend)
+3. ℹ️ Assigned PR [#9](https://github.com/LAFINA-AI/LAFINA-backend/pull/9) in [LAFINA-AI/LAFINA-backend](https://github.com/LAFINA-AI/LAFINA-backend)
 <!--END_SECTION:activity-->
 
 ---
